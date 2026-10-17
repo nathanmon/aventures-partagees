@@ -27,6 +27,10 @@ Le [dossier d'idées d'illustrations de scènes](SCENES_RENCONTRES_ET_EMOTIONS.m
 
 Le [guide des relations et illustrations évolutives](RELATIONS_ET_ILLUSTRATIONS.md) reprend les **relations déjà définies entre les héros officiels des six peuples**, les conflits ou collaborations entre PNJ du jeu de rôle, et propose des scènes **conditionnées aux faits réellement joués**. Il anticipe les portraits de duo et les moments relationnels sans décider des émotions du joueur ni réécrire les histoires canoniques.
 
+## Références des personnages secondaires
+
+La [bible visuelle des 17 PNJ](BIBLE_VISUELLE_PNJ.md) donne des apparences reproductibles, des situations personnelles **proposées**, leurs liens et leurs accessoires. L'[atlas de leurs scènes](ATLAS_SCENES_PNJ.md) permet de préparer rencontres, duos, conflits et moments émouvants **sans attribuer au joueur des actions qu'il n'a pas choisies**.
+
 ## Comment distinguer vérité du monde et matériau inventé ?
 
 - **[CANON JEU]** : soutenu par les spécifications officielles privées du jeu vidéo ; prévaut en cas de contradiction. Cela inclut les six ports, les races, les héros, les grandes zones, les familles d'ennemis et les chapitres.

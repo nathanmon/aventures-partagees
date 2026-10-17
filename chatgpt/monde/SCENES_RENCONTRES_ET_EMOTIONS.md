@@ -86,6 +86,10 @@ Les 13 idées portant un **ID entre accents graves dans les trois tables** ont �
 
 Consulter le [guide de relations et illustrations évolutives](RELATIONS_ET_ILLUSTRATIONS.md), qui distingue les liens déjà canoniques entre héros de Battlecry et les relations susceptibles de naître ou de se transformer **dans une session**. Les scènes de couple, amitié, famille, rivalité, mentorat et réconciliation **ne sont pas des dénouements obligatoires**. Une illustration de réconciliation ou d'intimité ne paraît que lorsque le fait est réellement établi dans l'aventure.
 
+## Continuité des figurants récurrents
+
+Les [17 PNJ](BIBLE_VISUELLE_PNJ.md) possèdent une identité visuelle de travail et un [atlas de scènes](ATLAS_SCENES_PNJ.md). Les scènes émotionnelles restent **conditionnelles** : ne pas générer une romance, un deuil, une rupture ou des retrouvailles qui n'ont pas eu lieu.
+
 ## Sources RP publiques
 
 - [Chronologie vivante](CHRONOLOGIE_VIVANTE.md)

@@ -86,6 +86,10 @@ Des idées **à conserver dans cette fiche sans multiplier les vignettes vides**
 
 Les **scènes romantiques impliquant un personnage joueur** doivent plutôt être produites sur mesure **après son choix**. Les illustrations d'attachement et de proximité ne forcent ni émotion ni intimité.
 
+## Identité visuelle et vie des PNJ
+
+La [bible des 17 personnages secondaires](BIBLE_VISUELLE_PNJ.md) définit leurs visages, costumes, situations et liens possibles. L'[atlas de scènes PNJ](ATLAS_SCENES_PNJ.md) décrit des compositions avec conditions de déclenchement. Les disputes professionnelles sont déjà proposées, **les romances, parentés et drames familiaux nouveaux ne sont pas des événements fixés**.
+
 ## 6. Fiche de relation vivante pour le MJ
 
 Conserver **dans le contexte de la session** sans prétendre disposer d'une base persistante automatique :

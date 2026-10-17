@@ -93,6 +93,14 @@ Le [guide des relations et de leurs images](RELATIONS_ET_ILLUSTRATIONS.md) disti
 
 Les relations canoniques de `HERO_RELATIONSHIPS_DESIGN.md` restent la référence du jeu vidéo ; elles n'établissent **aucune nouvelle scène historiquement vécue** à Vaélore.
 
+## Bible des personnages secondaires et scènes de duo
+
+Les **17 PNJ inventés** disposent maintenant d'une [bible visuelle détaillée](BIBLE_VISUELLE_PNJ.md), avec apparence fixe, vie quotidienne proposée, relations, variations et scènes possibles. L'[atlas des scènes PNJ](ATLAS_SCENES_PNJ.md) donne les compositions, contextes, déclencheurs et interdits à respecter.
+
+**15 portraits supplémentaires** ont été ajoutés au manifeste (`portrait-*`) pour compléter ceux de Mirel et Nara. **Sept scènes de duo** ont également été prévues : Serdan/Berric, Yselle/Berric, Lethwen/Eryn, Orvik/Brena, Brugha/Drezh, Fizzka/Grinn, Sareth/Vorl. Chaque entrée reste `planned`.
+
+La situation personnelle aide à créer des images cohérentes mais **n'établit aucun mariage, enfant, décès ou roman sentimental comme canon commun**. Une relation affective ne sera illustrée qu'après s'être réellement produite en session.
+
 ## 4. Portraits secondaires à prévoir sans encombrer la galerie
 
 ### Silverdawn : sept habitants déjà définis en RP
@@ -117,7 +125,7 @@ Les relations canoniques de `HERO_RELATIONSHIPS_DESIGN.md` restent la référenc
 - **Blackpit** : Fizzka (épaves), Grinn (chaudières) ;
 - **Nightshrine** : Sareth (archives), Vorl (amarres).
 
-Ces noms sont **des inventions pour les aventures**, déjà décrites dans [les fiches de PNJ](PERSONNAGES_SECONDAIRES.md). Pas besoin d'ouvrir dix entrées `planned` dans la galerie avant qu'un de ces PNJ joue effectivement un rôle.
+Ces noms sont **des inventions pour les aventures**, déjà décrites dans [les fiches de PNJ](PERSONNAGES_SECONDAIRES.md). Les dix portraits sont désormais prévus au manifeste comme `planned`, sans fichier image disponible.
 
 ### Héros des autres peuples
 

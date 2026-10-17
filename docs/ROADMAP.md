@@ -16,6 +16,9 @@
 - [x] Définir des scènes de **rencontre**, des **moments marquants** et des **scènes émouvantes** avec leurs conditions d'affichage.
 - [x] Ajouter 13 intentions visuelles réutilisables à la galerie prévisionnelle.
 - [x] Reprendre les liens canoniques entre les héros des six peuples et planifier dix illustrations de relations, sans forcer les décisions du joueur.
+- [x] Rédiger les 17 fiches de PNJ : visage, silhouette, tenue, situation personnelle, liens et détails à préserver.
+- [x] Compléter le manifeste avec les 15 portraits encore manquants et sept scènes de duo.
+- [x] Préparer un atlas des scènes PNJ avec époque, objets, acteurs, composition et déclencheurs.
 - [ ] Produire et valider les illustrations prioritaires P0 ; **aucun fichier `ready` publié pour le moment**.
 
 
