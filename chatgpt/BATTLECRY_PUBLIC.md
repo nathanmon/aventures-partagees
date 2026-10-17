@@ -32,3 +32,7 @@ Les soldats, artisans, marchands, capitaines, marins, familles, explorateurs et 
 Le personnage débarque normalement au **quai de son port d'arrivée**, pas sur une plage face à des ruines monumentales. Les découvertes hors des colonies ne sont racontées qu'une fois réellement effectuées.
 
 Les relations, biographies et apparences des héros sont définies dans les documents canoniques privés ; une invention de scène n'est pas automatiquement du canon partagé.
+
+## Dossiers de lieux
+
+- [Silverdawn — lore jouable (canon vérifié et propositions à valider)](lieux/SILVERDAWN.md)
