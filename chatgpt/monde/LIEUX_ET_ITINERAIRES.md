@@ -127,3 +127,10 @@ Les architectures, coordonnées, scènes et maisons ajoutées pour l'ambiance so
 ## Sources privées
 
 **MAP_DESIGN.md**, **MAP_CITY_PROGRESSION.md**, **MAP_SITE_DISTRIBUTION.md**, **SOLO_CITY_MODULAR_HUB_DESIGN.md**, **SOLO_BUILDINGS_DESIGN.md**, **SOLO_RECRUITMENT_DESIGN.md**, **MONSTER_DESIGN.md**, **NARRATIVE_CHAPTERS_DESIGN.md**.
+
+
+## Illustrations liées aux lieux
+
+Le [plan d'illustrations](PLAN_ILLUSTRATIONS.md) répertorie les six ports déjà prévus (`port-silverdawn`, `port-gladenthorn`, `port-ironpeak`, `port-krag-thar`, `port-blackpit`, `port-nightshrine`), les **quatre périodes de Silverdawn**, les environs de la première Crypte, l'approche de Highford et les paysages de Crownfall et Sunkenmere.
+
+**Chaque ville peut posséder plusieurs illustrations d'époque** si le décor a réellement changé. Ne pas décrire la place et les remparts comme achevés le jour du premier débarquement. L'image de la région de Sunkenmere ou de Crownfall peut exister **sans montrer directement** le Kraken ou le Dragon.

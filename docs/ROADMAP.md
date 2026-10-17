@@ -11,6 +11,11 @@
 
 ## Illustrations
 
+- [x] Définir un plan de production reliant personnages, lieux, événements et époques aux illustrations.
+- [x] Enrichir le catalogue prévisionnel avec les quatre événements validés, les héros humains et les grandes étapes explorables.
+- [ ] Produire et valider les illustrations prioritaires P0 ; **aucun fichier `ready` publié pour le moment**.
+
+
 - [ ] Publier une première illustration **validée** de Silverdawn, avec quai et colonie récente.
 - [ ] Tester son affichage dans ChatGPT, sans promettre de réutilisation automatique.
 - [ ] Exporter des portraits canoniques de héros, après validation de publication.

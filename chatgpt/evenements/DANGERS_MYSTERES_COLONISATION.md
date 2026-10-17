@@ -154,3 +154,17 @@ Ne pas introduire de ville, route ou côte à des coordonnées improvisées sur 
 Restent ouverts : les dates et durées, les routes et zones effectivement concernées, les noms de témoins, les causes encore inexpliquées, les pertes et toutes les décisions pouvant appartenir à Aldria, Caelan, Valerian ou Elira.
 
 **Le présent document appartient uniquement au dépôt `aventures-partagees` : il ne nécessite aucune modification du dépôt privé Battlecry.** Les trois petits mystères de la section 6 sont toujours de simples possibilités de récit.
+
+
+## Illustrations des événements validés
+
+Les quatre événements historiques du présent dossier possèdent maintenant chacun un **identifiant visuel stable** dans le [plan d'illustrations](../monde/PLAN_ILLUSTRATIONS.md) et le manifeste :
+
+| Événement | Image prévue | Ce qu'elle doit éviter |
+| --- | --- | --- |
+| Saison des Meutes | `event-saison-meutes` | Victoire obligatoire, cause surnaturelle imposée |
+| Voiles noires du large | `event-voiles-noires` | Pirates assimilés à la flotte orque, défaite d'un navire nommé |
+| Bornes renversées | `event-bornes-renversees` | Explication de l'anomalie ou révélation ancienne prématurée |
+| Cendres lointaines | `event-cendres-lointaines` | Éruption géante ou Dragon montré comme cause établie |
+
+Ces images représentent le **début ou l'atmosphère de l'événement**, et non son dénouement. Toutes sont encore à produire.

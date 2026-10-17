@@ -107,3 +107,10 @@ Dans un jeu de rôle ChatGPT, ces événements peuvent alimenter des histoires l
 - [Dangers et mystères du quotidien](DANGERS_MYSTERES_COLONISATION.md)
 - [Six événements de colonisation proposés](GRANDS_EVENEMENTS_COLONISATION.md)
 - [Chronique de Silverdawn](../lieux/SILVERDAWN_CHRONIQUE.md)
+
+
+## Illustrations à prévoir avec les jalons
+
+Voir le [plan visuel de Vaélore](../monde/PLAN_ILLUSTRATIONS.md) et les entrées prévues pour **l'entrée de la première Crypte**, **l'approche de Highford**, **les voiles orques à l'horizon**, **Sunkenmere** et **Crownfall**.
+
+Les illustrations directes des gardiens, du Kraken, du Dragon et des découvertes tardives sont à préparer pour les **scènes où le personnage les voit réellement**, sans publier de révélation avancée dans le manifeste public.

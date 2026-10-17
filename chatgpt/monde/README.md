@@ -2,6 +2,12 @@
 
 **Version de travail complète pour le maître du jeu.** Ces dossiers concernent les **aventures ChatGPT** dans l'univers de Battlecry. Le dépôt privé Battlecry est **consulté comme source canonique**, jamais modifié par ce travail.
 
+## Illustrations préparées avec le lore
+
+Le [plan de production des illustrations](PLAN_ILLUSTRATIONS.md) relie **personnages, lieux et événements** aux visuels à produire : sujet, période, apparence, risques de spoilers, priorité et continuité. Les premières entrées sont présentes dans le [manifeste public](../../data/illustrations.json), toutes marquées `planned` tant qu'aucune image n'est effectivement publiée.
+
+**Dès qu'une fiche est enrichie par un nouveau personnage, un lieu ou un événement marquant, vérifier aussi si sa fiche visuelle doit évoluer.** Le récit passe avant la production d'image, et le dépôt Battlecry reste inchangé.
+
 ## Six domaines documentés
 
 | Dossier | Ce qu'il apporte au MJ |
