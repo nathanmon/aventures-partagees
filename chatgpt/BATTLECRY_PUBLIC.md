@@ -21,15 +21,21 @@ Six peuples sont arrivés par la mer et ont établi leurs propres **ports récen
 
 Ces regroupements sont politiques et géographiques, pas une séparation automatique entre « gentils » et « méchants ».
 
+## Aventure humaine : personnages jouables
+
+Le joueur choisit exclusivement **Aldria, Caelan, Valerian ou Elira**. La date de départ dépend du héros choisi. Aldria accompagne les premiers Humains ; les dates des trois autres ne sont pas encore canoniquement établies.
+
+[Chronologie et règles d'ouverture](HEROS_HUMAINS.md)
+
 ## Vivre sur Vaélore
 
-Un personnage peut arriver par bateau, trouver un travail, commercer, cultiver, naviguer, se joindre à une expédition, négocier, explorer, ou simplement habiter dans un port. La vie des colonies continue sans attendre qu'un aventurier accepte une quête.
+Le héros humain choisi peut arriver par bateau, travailler, commercer, naviguer, se joindre à une expédition, négocier ou habiter dans un port. La vie des colonies continue sans attendre qu'un aventurier accepte une quête.
 
 Les soldats, artisans, marchands, capitaines, marins, familles, explorateurs et habitants ont leurs propres buts et désaccords. Les détails des coutumes et institutions non définis dans le canon doivent rester explicitement proposés pour validation avant d'être officialisés.
 
 ## Utilisation dans ChatGPT
 
-Le personnage débarque normalement au **quai de son port d'arrivée**, pas sur une plage face à des ruines monumentales. Les découvertes hors des colonies ne sont racontées qu'une fois réellement effectuées.
+Au moment de son débarquement, le héros humain arrive normalement au **quai de Silverdawn**, pas sur une plage face à des ruines monumentales. Les découvertes hors des colonies ne sont racontées qu'une fois réellement effectuées.
 
 Les relations, biographies et apparences des héros sont définies dans les documents canoniques privés ; une invention de scène n'est pas automatiquement du canon partagé.
 

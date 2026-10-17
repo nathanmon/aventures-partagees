@@ -2,6 +2,12 @@
 
 > **Statut : proposition de lore jouable v0.1, en attente de validation.** Les passages « Canon vérifié » viennent des spécifications de Battlecry ; tout élément étiqueté « Proposition MJ » est un ajout non canonique. Le site est public : ce dossier ne contient ni secrets ni révélations tardives.
 
+## Cadrage de l'aventure humaine
+
+**Restriction de personnage :** le joueur incarne obligatoirement **Aldria, Caelan, Valerian ou Elira**, héros humains canoniques. La **date de départ dépend de l'arrivée du héros choisi**. Aldria mène le premier débarquement humain ; le calendrier et l'ordre d'arrivée de Caelan, Valerian et Elira restent à établir. Consulter [la chronologie des héros humains](../HEROS_HUMAINS.md).
+
+Les autres héros ne peuvent apparaître que si leur présence est cohérente avec l'époque de la scène. La ville évolue en fonction du temps écoulé depuis le débarquement.
+
 ## 1. Canon vérifié — ce qui est déjà établi
 
 - **Lieu :** Silverdawn, port de départ des **Humains** au **nord-est** de Vaélore, dans la zone de départ de la **Coalition**.
@@ -95,7 +101,7 @@ Les causes exactes de la catastrophe ancienne, les identités cachées et les d�
 
 1. **Qui exerce l'autorité civile à Silverdawn ?** La présence d'Aldria parmi les premiers débarqués ne fixe pas tout le gouvernement de la ville.
 2. **Quels quartiers/lieux doivent recevoir des noms officiels ?** Les lieux décrits sont jusqu'ici fonctionnels.
-3. **Quel état de la colonie choisir pour les aventures partagées ?** Le port peut évoluer, mais la chronologie commune doit être maîtrisée.
+3. **Quels moments d'arrivée choisir pour Caelan, Valerian et Elira ?** Chaque héros démarre à sa propre époque ; l'état de la colonie en découle.
 4. **Souhaite-t-on adopter des PNJ récurrents nommés ?** Mirel, Oren et Serdan sont seulement des propositions.
 5. **Jusqu'où les héros canoniques interviennent-ils dans la vie civile ?** Leurs personnalités et relations sont fixées, mais pas chaque activité quotidienne.
 
