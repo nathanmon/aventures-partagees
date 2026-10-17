@@ -23,7 +23,9 @@ Vael et Veleth utilisent **une seule technologie de diffusion technomagique** po
 | Blackpit | Gobelins | Sud-centre | Terres Brisées |
 | Nightshrine | Morts-vivants | Sud-ouest | Terres Brisées |
 
-Ces regroupements sont politiques et géographiques, pas une séparation automatique entre « gentils » et « méchants ».
+Les **Humains, Elfes et Nains sont déjà plus ou moins alliés avant Vaélore**. Ils demeurent trois peuples autonomes, chacun avec sa ville, ses représentants et ses intérêts. La Coalition n'est pas un royaume unifié : Silverdawn n'en est pas la capitale commune. Ces regroupements ne résument pas la morale des habitants.
+
+[Coalition : trois peuples alliés, trois cités autonomes](COALITION.md).
 
 ## Aventure humaine : personnages jouables
 

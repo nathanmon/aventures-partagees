@@ -10,7 +10,7 @@
 3. **Les Humains sont les premiers à atteindre l'île** et fondent Silverdawn, Aldria menant les premiers débarquements humains.
 4. Les autres peuples ont leurs propres implantations portuaires, dont **Gladenthorn** pour les Elfes et **Ironpeak** pour les Nains. **En mode solo, leurs navires peuvent aussi débarquer directement à Silverdawn** : ce sont des filières de recrutement du port humain, pas des escales obligatoires dans leurs villes d'origine.
 5. **Aucun choix politique n'est requis en mode solo pour recruter ces races.** Le gameplay privilégie le deckbuilding : **Port N2 ouvre la filière elfe, Port N3 la filière naine**. Les relations politiques peuvent enrichir la fiction et les aventures ChatGPT, sans devenir un verrou de gameplay.
-6. L'ordre complet des autres débarquements, les dates précises des traités et les conditions diplomatiques détaillées restent à fixer.
+6. **Les Humains, Elfes et Nains entretiennent déjà des rapports globalement alliés avant Vaélore**, mais gardent chacun leurs propres autorités et leur ville portuaire. Les dates des débarquements et les modalités de leur coopération restent à préciser.
 
 **Distinction importante :** l'existence de ports propres à chaque peuple n'implique pas que **tous** les navires de ce peuple débarquent exclusivement dans ces ports.
 
@@ -23,6 +23,10 @@ Une installation de communication **technomagique** conçue pour produire **une 
 **Ne pas multiplier les technologies utilisées pour cet événement** : pas une combinaison de rêves envoyés aux mages, cristaux adressés aux rois et cartes révélées aux navigateurs. Le Grand Appel procède **d'un seul système de transmission**.
 
 **Points encore ouverts :** portée géographique, forme sensible du signal, énergie nécessaire, nombre et emplacement des installations, caractère reproductible de l'émission. Il est prématuré de présenter ces détails comme du canon.
+
+## Alliance préalable, villes indépendantes
+
+La Coalition réunit des peuples déjà liés avant Vaélore. Silverdawn, Gladenthorn et Ironpeak restent des cités distinctes et politiquement autonomes ; il n'existe pas de souverain humain commun imposé aux trois. Les tensions futures portent sur la coopération entre alliés, pas sur une première rencontre ou la fondation obligatoire d'une alliance. Voir [Coalition : peuples alliés et cités autonomes](COALITION.md).
 
 ## Enjeu politique de la diffusion générale
 
@@ -41,7 +45,7 @@ Ces ambitions ne désignent pas automatiquement un peuple comme bon ou mauvais. 
 - Lors des aventures ultérieures, faire évoluer les relations entre Humains, Elfes et Nains par des événements historiques, des négociations et des tensions crédibles. **Ne pas importer de condition diplomatique de recrutement qui n'existe pas dans le jeu solo.**
 - Des bateaux elfes et nains peuvent accoster directement à Silverdawn au fil du développement du port. Dans le solo, ils deviennent disponibles via **Port N2 / Port N3**, sans choix politique. Dans l'aventure narrative, les accords et les réactions des habitants peuvent être racontés sans rendre ces débarquements impossibles par principe.
 - Le récit ne présuppose pas les décisions politiques personnelles d'Aldria, Caelan, Valerian ou Elira lorsqu'ils sont incarnés par des joueurs.
-- La politique de la **Coalition** doit pouvoir évoluer selon les choix du héros et les actes autonomes des autres dirigeants, sans considérer que toute coalition était déjà parfaitement fixée au premier jour.
+- La **Coalition existe comme entente entre peuples avant Vaélore** ; ses cités conservent leur autonomie. Les événements politiques sur l'île font évoluer les rapports et accords entre ces alliés, sans faire naître leur relation de rien.
 
 ## Références et point de synchronisation
 

@@ -8,6 +8,8 @@ Silverdawn n'a pas été découverte toute bâtie. **Les Humains sont les premie
 
 **Proposition de devise locale :** « La mer nous amène ; la terre décide si nous restons. » Elle vient des équipages, pas d'une institution millénaire.
 
+Les **Humains, Elfes et Nains** sont déjà globalement alliés avant leur venue à Vaélore. Chacun conserve pourtant sa ville, ses autorités et ses intérêts ; les négociations à Silverdawn concernent la coopération entre cités autonomes, pas la création de leur alliance depuis zéro. Voir [la Coalition et ses trois cités](../COALITION.md).
+
 Les habitants forment une société récente et hétérogène : matelots prêts à repartir, familles venues s'installer, militaires, artisans, journaliers, cultivateurs, marchands, guérisseurs et explorateurs. Certains répondent à l'appel d'aide des figures anciennes ; d'autres cherchent simplement une existence nouvelle. Les tensions quotidiennes n'opposent donc pas automatiquement héros et méchants, mais plusieurs nécessités légitimes.
 
 Ne pas dessiner Silverdawn au premier débarquement comme une capitale royale ou une plage devant les ruines : c'est un **port pionnier**, avec un débarcadère de planches et des structures en construction.
@@ -102,7 +104,7 @@ Une partie d'Aldria peut influencer la ville *dans cette partie*. Ses actes ne d
 
 **Principe établi pour le jeu :** l'arrivée des bateaux elfes et nains au **port humain de Silverdawn** dépend du **niveau du Port** : filière elfe au N2 et naine au N3. **Aucune décision politique du joueur n'est nécessaire.** Les villes propres aux Elfes et aux Nains existent parallèlement à ce recrutement multiracial.
 
-**Situations politiques proposées, non encore canonisées :** négociations sur les droits commerciaux, partage des vivres, coexistence des équipages et désaccords entre capitaines. Le MJ ne doit pas convertir ces propositions en traité historique déjà signé, ni les utiliser pour bloquer une filière de recrutement du jeu vidéo. Elles constituent une matière narrative et peuvent évoluer dans les aventures. Lire [Le Grand Appel et les débarquements](../L_APPEL_ET_DEBARQUEMENTS.md).
+**Situations politiques proposées, non encore canonisées :** négociations entre alliés déjà liés, droits commerciaux, partage des vivres, soutien entre cités autonomes et désaccords entre capitaines. Le MJ ne doit pas convertir ces propositions en traité historique déjà signé, ni les utiliser pour bloquer une filière de recrutement du jeu vidéo. Elles constituent une matière narrative et peuvent évoluer dans les aventures. Lire [Le Grand Appel et les débarquements](../L_APPEL_ET_DEBARQUEMENTS.md).
 
 ## 8. Scènes d'ouverture selon le héros
 
