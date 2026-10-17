@@ -127,3 +127,8 @@ Les **dix PNJ proposés des cinq autres cités** pourront recevoir des portraits
 ## Relations et illustrations à deux personnages
 
 Voir le [guide des relations et illustrations évolutives](RELATIONS_ET_ILLUSTRATIONS.md). Les paires **Mirel/Oren** et **Nara/Taven** disposent désormais de scènes visuelles prévisionnelles. Les autres liens professionnels, amicaux ou affectifs peuvent changer naturellement, même hors champ, sans devenir des faits de toutes les aventures. Une illustration n'autorise jamais l'IA à décider des paroles, de l'amour ou du pardon du personnage joueur.
+
+
+## Bible visuelle détaillée des 17 PNJ
+
+La [bible d'identité des personnages secondaires](BIBLE_VISUELLE_PNJ.md) fixe, **en propositions pour les aventures**, des repères reproductibles de visage, silhouette, vêtements, objets, situation quotidienne, réseau de relations et scènes à dessiner. Elle évite de changer d'apparence entre portrait, rencontre et scène émotionnelle, sans établir de mariage, enfant, décès ou romance non décidé. **Elle ne constitue pas une extension du canon du jeu vidéo.**
