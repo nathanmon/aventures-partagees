@@ -85,6 +85,14 @@ En plus des portraits, lieux et déclencheurs d'événements, la bibliothèque p
 
 **Les illustrations sont conditionnelles** : ne pas montrer une retrouvaille avant qu'elle ait lieu, ni faire apparaître les Elfes ou les Nains à Silverdawn à une époque incompatible avec leur arrivée, ni afficher un héros accomplissant un choix que le joueur n'a pas fait. Les scènes d'émotion peuvent mettre en avant **des figurants anonymes** plutôt que le personnage-joueur pour rester réutilisables.
 
+## Relations et illustrations évolutives
+
+Le [guide des relations et de leurs images](RELATIONS_ET_ILLUSTRATIONS.md) distingue les **liens canoniques préexistants** entre héros, les relations de PNJ inventées pour Aventures partagées et les **changements émergents** pendant les sessions. Il propose **10 entrées** dans le manifeste `planned` : anciens compagnons, couple déjà marié, fratries, amitiés, désaccords professionnels, confiance naissante et réconciliation conditionnelle.
+
+**Une image relationnelle n'impose jamais un sentiment ou une décision au personnage joueur**. Une scène romantique, une dispute, une rupture ou une réconciliation **impliquant ce personnage** doit être illustrée **seulement après sa participation réelle**. La présence des personnages doit respecter leur date d'arrivée : Elira ne se trouve pas automatiquement avec Caelan à Silverdawn avant son propre débarquement.
+
+Les relations canoniques de `HERO_RELATIONSHIPS_DESIGN.md` restent la référence du jeu vidéo ; elles n'établissent **aucune nouvelle scène historiquement vécue** à Vaélore.
+
 ## 4. Portraits secondaires à prévoir sans encombrer la galerie
 
 ### Silverdawn : sept habitants déjà définis en RP

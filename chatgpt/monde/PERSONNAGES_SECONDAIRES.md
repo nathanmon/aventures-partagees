@@ -122,3 +122,8 @@ Toutes les professions sont plausibles par rapport aux flottes, villes et ressou
 Voir le [plan de production des illustrations](PLAN_ILLUSTRATIONS.md), section « Portraits secondaires ». Les **sept habitants déjà proposés** à Silverdawn y disposent d'un brief et d'un ID de portrait futur : `portrait-mirel` et `portrait-nara` sont déjà prévus dans le manifeste ; `portrait-oren`, `portrait-serdan`, `portrait-yselle`, `portrait-berric` et `portrait-taven` restent dans la liste de production à venir.
 
 Les **dix PNJ proposés des cinq autres cités** pourront recevoir des portraits cohérents lorsqu'ils apparaîtront régulièrement. Avant de générer un nouveau portrait, conserver l'apparence de la même personne dans les images et conversations déjà établies. Ne pas représenter de héros-joueur officiel en lui inventant un visage au détriment de sa fiche canonique.
+
+
+## Relations et illustrations à deux personnages
+
+Voir le [guide des relations et illustrations évolutives](RELATIONS_ET_ILLUSTRATIONS.md). Les paires **Mirel/Oren** et **Nara/Taven** disposent désormais de scènes visuelles prévisionnelles. Les autres liens professionnels, amicaux ou affectifs peuvent changer naturellement, même hors champ, sans devenir des faits de toutes les aventures. Une illustration n'autorise jamais l'IA à décider des paroles, de l'amour ou du pardon du personnage joueur.

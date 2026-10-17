@@ -15,6 +15,7 @@
 - [x] Enrichir le catalogue prévisionnel avec les quatre événements validés, les héros humains et les grandes étapes explorables.
 - [x] Définir des scènes de **rencontre**, des **moments marquants** et des **scènes émouvantes** avec leurs conditions d'affichage.
 - [x] Ajouter 13 intentions visuelles réutilisables à la galerie prévisionnelle.
+- [x] Reprendre les liens canoniques entre les héros des six peuples et planifier dix illustrations de relations, sans forcer les décisions du joueur.
 - [ ] Produire et valider les illustrations prioritaires P0 ; **aucun fichier `ready` publié pour le moment**.
 
 

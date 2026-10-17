@@ -23,6 +23,10 @@ Le [plan de production des illustrations](PLAN_ILLUSTRATIONS.md) relie **personn
 
 Le [dossier d'idées d'illustrations de scènes](SCENES_RENCONTRES_ET_EMOTIONS.md) propose des images pour les **rencontres entre personnes**, les **situations qui changent le monde** et les **moments de joie, de peine ou de solidarité**, sans préécrire les réactions des héros. Les sujets prioritaires sont ajoutés au manifeste d'illustrations avec le statut `planned`. Le [plan graphique principal](PLAN_ILLUSTRATIONS.md) décrit la direction artistique et les étapes de validation.
 
+## Relations des personnages et illustrations
+
+Le [guide des relations et illustrations évolutives](RELATIONS_ET_ILLUSTRATIONS.md) reprend les **relations déjà définies entre les héros officiels des six peuples**, les conflits ou collaborations entre PNJ du jeu de rôle, et propose des scènes **conditionnées aux faits réellement joués**. Il anticipe les portraits de duo et les moments relationnels sans décider des émotions du joueur ni réécrire les histoires canoniques.
+
 ## Comment distinguer vérité du monde et matériau inventé ?
 
 - **[CANON JEU]** : soutenu par les spécifications officielles privées du jeu vidéo ; prévaut en cas de contradiction. Cela inclut les six ports, les races, les héros, les grandes zones, les familles d'ennemis et les chapitres.

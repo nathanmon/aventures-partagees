@@ -82,6 +82,10 @@ Commencer par **deux rencontres réutilisables** (`rencontre-mirel-quais`, `renc
 
 Les 13 idées portant un **ID entre accents graves dans les trois tables** ont été ajoutées comme entrées `planned` au manifeste `data/illustrations.json`. Les autres restent seulement dans ce document, pour ne pas saturer la galerie. **Aucune image réelle n'a encore été produite**.
 
+## Relations affectives, familiales et professionnelles
+
+Consulter le [guide de relations et illustrations évolutives](RELATIONS_ET_ILLUSTRATIONS.md), qui distingue les liens déjà canoniques entre héros de Battlecry et les relations susceptibles de naître ou de se transformer **dans une session**. Les scènes de couple, amitié, famille, rivalité, mentorat et réconciliation **ne sont pas des dénouements obligatoires**. Une illustration de réconciliation ou d'intimité ne paraît que lorsque le fait est réellement établi dans l'aventure.
+
 ## Sources RP publiques
 
 - [Chronologie vivante](CHRONOLOGIE_VIVANTE.md)
