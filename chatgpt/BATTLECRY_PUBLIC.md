@@ -45,6 +45,12 @@ Au moment de son débarquement, le héros humain arrive normalement au **quai de
 
 Les relations, biographies et apparences des héros sont définies dans les documents canoniques privés ; une invention de scène n'est pas automatiquement du canon partagé.
 
+## Événements historiques à construire
+
+La première chronologie de colonisation propose six événements politiques, maritimes et sociaux, de l'arrivée humaine à l'époque d'Elira. **Ils ne sont pas encore canonisés** ; leurs issues restent ouvertes aux aventures.
+
+[Les grands événements de la colonisation (propositions)](evenements/GRANDS_EVENEMENTS_COLONISATION.md).
+
 ## Dossiers de lieux
 
 - [Silverdawn — dossier général (canon et propositions)](lieux/SILVERDAWN.md)

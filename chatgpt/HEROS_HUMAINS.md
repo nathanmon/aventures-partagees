@@ -29,6 +29,10 @@ Dans les aventures ChatGPT, **Aldria et Caelan peuvent décider, négocier ou co
 
 **Ne pas faire découler cette politique des niveaux de port du jeu vidéo** : le recrutement elfe/nain du solo reste automatique par progression des filières N2/N3, sans choix politique.
 
+## Événements qui évoluent avec les époques
+
+Les scènes jouées par les différents héros peuvent s'appuyer sur [les grands événements de colonisation proposés](evenements/GRANDS_EVENEMENTS_COLONISATION.md), tout en respectant la période du héros sélectionné. **Un événement déclencheur peut être commun à plusieurs parties, mais l'issue dépend du joueur**. Le MJ n'attribue jamais de décision politique ou militaire passée à un héros contrôlé dans une autre session sans validation de l'histoire partagée.
+
 ## Liberté et continuité des parties
 
 Le joueur contrôle entièrement les actes, paroles et intentions du héros incarné. Les autres personnages, villes et factions agissent sans l'attendre. Une partie individuelle n'ajoute pas automatiquement ses événements à l'histoire commune : il faut une validation explicite.

@@ -59,6 +59,12 @@ La ville a davantage de monde, de travail et de responsabilités. Les quais sont
 
 **Elira arrive** dans une colonie dont la question centrale est devenue : *pourquoi construire une ville si ceux qui y vivent ne sont pas protégés ?* Ce thème correspond à sa personnalité canonique ; elle reste entièrement libre de sa réponse et de ses actes. Sa présence ne signifie pas qu'elle commande automatiquement les soignants.
 
+## Événements majeurs susceptibles de marquer cette histoire
+
+Une série de **six événements structurants proposés** peut affecter Silverdawn et les autres cités : **Les Voiles perdues**, **Le Sentier interdit**, **L'Accord des Trois Ports**, **La Question de Highford**, **Le Navire du Sud** et **La Crise des Refuges**.
+
+Ce sont des **déclencheurs possibles, pas encore des faits canoniques validés**. Ils doivent faire vivre le monde, sans inventer à l'avance les décisions d'Aldria, Caelan, Valerian ou Elira. Les actes d'un joueur ne deviennent pas automatiquement l'histoire partagée des autres. Voir [les grands événements de la colonisation](GRANDS_EVENEMENTS_COLONISATION.md).
+
 ## 3. Les lieux que les habitants utilisent
 
 Les noms ci-dessous sont **des surnoms inventés pour le jeu de rôle**, sans coordonnées géographiques officielles. Ils peuvent évoluer lorsque la ville grandit.
