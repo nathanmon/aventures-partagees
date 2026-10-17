@@ -6,7 +6,7 @@
 
 Vaélore est une île immense révélée aux nouveaux arrivants après l'appel de deux figures anciennes, Vael et Veleth. L'intérieur conserve les vestiges d'une civilisation oubliée et certains gardiens continuent d'y agir. Les raisons et l'histoire détaillée de ces phénomènes sont à découvrir en jeu.
 
-Les **Humains sont les premiers à arriver** sur Vaélore. Six peuples prennent ensuite pied sur l'île par la mer et fondent leurs propres **ports récents**. Ces installations ne sont pas des cités vaéloriennes intactes. **Des navires elfes et nains peuvent également débarquer directement à Silverdawn** lorsque les choix politiques le permettent dans le mode solo.
+Les **Humains sont les premiers à arriver** sur Vaélore. Six peuples prennent ensuite pied sur l'île par la mer et fondent leurs propres **ports récents**. Ces installations ne sont pas des cités vaéloriennes intactes. **En mode solo, les bateaux elfes et nains peuvent également débarquer directement à Silverdawn**, avec le déblocage des filières de recrutement aux **Ports N2 et N3** ; aucun choix politique n'est nécessaire pour ce deckbuilding.
 
 ## Le Grand Appel
 

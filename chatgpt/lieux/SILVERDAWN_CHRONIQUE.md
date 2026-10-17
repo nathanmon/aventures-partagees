@@ -43,7 +43,7 @@ C'est une période où **Caelan ou Valerian peut arriver**. Le premier débarque
 
 ### Temps des Convois : sortir du port
 
-Selon les accords et décisions politiques, **les navires elfes et nains peuvent accoster et débarquer directement à Silverdawn**, plutôt que de se limiter aux ports de Gladenthorn et d'Ironpeak. Leur accueil ne doit pas être automatique si l'alliance ne le permet pas. La ville organise des allers-retours entre la côte et les approches terrestres. Les navires apportent du matériel, des voyageurs, des nouvelles. Les premiers rapports sur l'intérieur ne sont pas tous fiables : une trace de bête peut être confondue avec un danger, un convoi retardé avec un convoi disparu.
+Au fil de l'expansion du port, **les navires elfes et nains peuvent accoster et débarquer directement à Silverdawn**, sans obligation de passer par Gladenthorn ou Ironpeak. Le mode solo ouvre ces filières de recrutement aux **Ports N2 et N3**, indépendamment de tout choix politique. Les rencontres et tensions diplomatiques peuvent être racontées comme des événements du monde, sans constituer une condition de recrutement. La ville organise des allers-retours entre la côte et les approches terrestres. Les navires apportent du matériel, des voyageurs, des nouvelles. Les premiers rapports sur l'intérieur ne sont pas tous fiables : une trace de bête peut être confondue avec un danger, un convoi retardé avec un convoi disparu.
 
 **Événement local proposé — Les lanternes du chemin :** les équipes de reconnaissance installent un code simple de départs et retours. Une lanterne oubliée crée un malentendu ; une patrouille revient sans comprendre l'inquiétude de la ville. Le système est ensuite amélioré par des habitants, même sans intervention héroïque.
 
@@ -100,9 +100,9 @@ Une partie d'Aldria peut influencer la ville *dans cette partie*. Ses actes ne d
 
 ## 7. La diplomatie et les arrivées alliées
 
-**Principe déjà décidé :** l'arrivée des Elfes et des Nains au **port humain de Silverdawn** dépend des **choix politiques**. L'existence de leurs propres villes portuaires n'interdit pas ces débarquements.
+**Principe établi pour le jeu :** l'arrivée des bateaux elfes et nains au **port humain de Silverdawn** dépend du **niveau du Port** : filière elfe au N2 et naine au N3. **Aucune décision politique du joueur n'est nécessaire.** Les villes propres aux Elfes et aux Nains existent parallèlement à ce recrutement multiracial.
 
-**Situations politiques proposées, non encore canonisées :** négociations sur l'accueil de navires alliés, droit de commercer sur les quais, partage des vivres, présence de garnisons étrangères et gestion des désaccords entre capitaines. Le MJ ne doit pas convertir ces propositions en traité historique déjà signé ni décider à la place du héros-joueur. Lire [Le Grand Appel et les débarquements](../L_APPEL_ET_DEBARQUEMENTS.md).
+**Situations politiques proposées, non encore canonisées :** négociations sur les droits commerciaux, partage des vivres, coexistence des équipages et désaccords entre capitaines. Le MJ ne doit pas convertir ces propositions en traité historique déjà signé, ni les utiliser pour bloquer une filière de recrutement du jeu vidéo. Elles constituent une matière narrative et peuvent évoluer dans les aventures. Lire [Le Grand Appel et les débarquements](../L_APPEL_ET_DEBARQUEMENTS.md).
 
 ## 8. Scènes d'ouverture selon le héros
 

@@ -22,9 +22,9 @@ Les autres héros ne peuvent apparaître que si leur présence est cohérente av
 
 **Références canoniques (privées) :** `nathanmon/battlecry/docs/design/MAP_DESIGN.md`, `WORLD_LORE.md`, `HERO_BIO_VISUAL_DESIGN.md`, `HERO_RELATIONSHIPS_DESIGN.md`, `ART_DIRECTION.md`, `SOLO_CITY_ART_ASSETS_DESIGN.md`. En cas de divergence, le canon spécialisé du dépôt privé prévaut.
 
-## Accueil d'alliés et choix politiques
+## Accueil des navires elfes et nains
 
-Dans le mode solo, **des navires elfes et nains peuvent débarquer au port humain de Silverdawn si les choix politiques l'autorisent**. Ce n'est pas incompatible avec l'existence de Gladenthorn et Ironpeak, qui restent des villes portuaires distinctes. Les circonstances diplomatiques exactes sont encore à écrire et les arrivées alliées ne sont pas automatiques. Voir [Le Grand Appel et les débarquements](../L_APPEL_ET_DEBARQUEMENTS.md).
+Dans le mode solo, **les navires elfes et nains peuvent débarquer directement au port humain de Silverdawn**, grâce aux **filières du Port N2 (Elfes) et N3 (Nains)**, sans choix politique préalable. Il s'agit d'un choix de gameplay favorisant le **deckbuilding multiracial**. Gladenthorn et Ironpeak restent des ports distincts dans le monde. Leurs relations diplomatiques avec Silverdawn peuvent nourrir des scènes et événements historiques dans ChatGPT, mais **ne bloquent pas le recrutement du jeu vidéo**. Voir [Le Grand Appel et les débarquements](../L_APPEL_ET_DEBARQUEMENTS.md).
 
 ## 2. Proposition MJ — la ville que découvre un personnage
 
