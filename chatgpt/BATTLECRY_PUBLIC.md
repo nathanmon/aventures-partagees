@@ -51,6 +51,8 @@ La première chronologie de colonisation propose six événements politiques, ma
 
 [Les grands événements de la colonisation (propositions)](evenements/GRANDS_EVENEMENTS_COLONISATION.md).
 
+[Dangers, catastrophes et mystères de Vaélore (propositions)](evenements/DANGERS_MYSTERES_COLONISATION.md).
+
 ## Dossiers de lieux
 
 - [Silverdawn — dossier général (canon et propositions)](lieux/SILVERDAWN.md)
