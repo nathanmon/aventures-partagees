@@ -11,7 +11,7 @@
 | **Maître-canonnier Valerian** | Chasseur et enquêteur méthodique | **Date à définir** |
 | **Dame Elira** | Protectrice idéaliste | **Date à définir** |
 
-**Sources du dépôt Battlecry privé :** \`HERO_BIO_VISUAL_DESIGN.md\`, \`HERO_IDENTITY_DESIGN.md\`, \`HERO_RELATIONSHIPS_DESIGN.md\`, \`ROSTER_ORDER_DESIGN.md\`, \`MAP_DESIGN.md\`. Le canon indique qu'Aldria mène les premiers Humains sur Vaélore. Il ne fixe pas la date ni l'ordre d'arrivée des trois autres héros. **Leur ordre dans le roster ne constitue pas une chronologie historique.**
+**Sources du dépôt Battlecry privé :** `HERO_BIO_VISUAL_DESIGN.md`, `HERO_IDENTITY_DESIGN.md`, `HERO_RELATIONSHIPS_DESIGN.md`, `ROSTER_ORDER_DESIGN.md`, `MAP_DESIGN.md`. Le canon indique qu'Aldria mène les premiers Humains sur Vaélore. Il ne fixe pas la date ni l'ordre d'arrivée des trois autres héros. **Leur ordre dans le roster ne constitue pas une chronologie historique.**
 
 ## Ouverture d'une aventure
 
