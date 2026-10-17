@@ -67,7 +67,9 @@ Les événements centraux restent **la première Crypte, le premier siège de Hi
 
 Une série de **six événements structurants proposés** peut affecter Silverdawn et les autres cités : **Les Voiles perdues**, **Le Sentier interdit**, **L'Accord des Trois Ports**, **La Question de Highford**, **Le Navire du Sud** et **La Crise des Refuges**.
 
-Ce sont des **déclencheurs possibles, pas encore des faits canoniques validés**. Ils doivent faire vivre le monde, sans inventer à l'avance les décisions d'Aldria, Caelan, Valerian ou Elira. Les actes d'un joueur ne deviennent pas automatiquement l'histoire partagée des autres. Voir [les grands événements de la colonisation](GRANDS_EVENEMENTS_COLONISATION.md). **Quatre autres événements ont été validés comme faits historiques** : La Saison des Meutes, Les Voiles noires du large, Les Bornes renversées et Les Cendres lointaines. Leurs résultats restent libres. Voir [les quatre événements retenus et les mystères facultatifs](DANGERS_MYSTERES_COLONISATION.md).
+Ce sont des **déclencheurs possibles, pas encore des faits canoniques validés**. Ils doivent faire vivre le monde, sans inventer à l'avance les décisions d'Aldria, Caelan, Valerian ou Elira. Les actes d'un joueur ne deviennent pas automatiquement l'histoire partagée des autres. Voir [les grands événements de la colonisation](../evenements/GRANDS_EVENEMENTS_COLONISATION.md). **Quatre autres événements ont été validés comme faits historiques** : La Saison des Meutes, Les Voiles noires du large, Les Bornes renversées et Les Cendres lointaines. Leurs résultats restent libres. Voir [les quatre événements retenus et les mystères facultatifs](../evenements/DANGERS_MYSTERES_COLONISATION.md).
+
+Pour développer les scènes quotidiennes, voir l'[atlas narratif de Vaélore](../monde/README.md) : cultures, PNJ, lieux, métiers et traditions des six peuples.
 
 ## 3. Les lieux que les habitants utilisent
 

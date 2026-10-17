@@ -61,6 +61,12 @@ La première chronologie de colonisation propose six événements politiques, ma
 
 [Quatre événements validés et mystères secondaires](evenements/DANGERS_MYSTERES_COLONISATION.md).
 
+## Atlas du monde vivant — six domaines
+
+L'[atlas narratif de Vaélore](monde/README.md) complète les grands jalons par six dossiers : **chronologie**, **cultures et vie quotidienne**, **personnages secondaires**, **lieux et itinéraires**, **organisations et métiers**, **légendes, rumeurs et traditions**. Il réutilise les règles de Battlecry sans en modifier les fichiers, les mécaniques ni le canon.
+
+Les personnages, cérémonies, quartiers et institutions nouvellement inventés sont **proposés pour Aventures partagées** et ne sont pas présumés officiels dans le jeu vidéo.
+
 ## Dossiers de lieux
 
 - [Silverdawn — dossier général (canon et propositions)](lieux/SILVERDAWN.md)
