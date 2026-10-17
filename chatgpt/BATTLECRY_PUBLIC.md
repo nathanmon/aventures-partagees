@@ -45,6 +45,12 @@ Au moment de son débarquement, le héros humain arrive normalement au **quai de
 
 Les relations, biographies et apparences des héros sont définies dans les documents canoniques privés ; une invention de scène n'est pas automatiquement du canon partagé.
 
+## Grands jalons de l'histoire de Vaélore
+
+La **première Crypte**, le **premier siège d'une cité neutre** (Highford sur le parcours humain), **l'arrivée des Orcs**, les **découvertes de la civilisation vaélorienne**, le **Kraken de Sunkenmere**, le **Dragon de Crownfall** et **Vaelarion** structurent bien davantage l'aventure que les incidents du quotidien. Leur issue n'est jamais attribuée à l'avance à un héros-joueur.
+
+[Grands jalons de Vaélore — présentation accessible aux joueurs](evenements/GRANDS_JALONS_VAELORE_PUBLIC.md).
+
 ## Événements historiques à construire
 
 La première chronologie de colonisation propose six événements politiques, maritimes et sociaux, de l'arrivée humaine à l'époque d'Elira. **Ils ne sont pas encore canonisés** ; leurs issues restent ouvertes aux aventures.

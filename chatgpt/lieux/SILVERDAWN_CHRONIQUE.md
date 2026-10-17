@@ -59,6 +59,10 @@ La ville a davantage de monde, de travail et de responsabilités. Les quais sont
 
 **Elira arrive** dans une colonie dont la question centrale est devenue : *pourquoi construire une ville si ceux qui y vivent ne sont pas protégés ?* Ce thème correspond à sa personnalité canonique ; elle reste entièrement libre de sa réponse et de ses actes. Sa présence ne signifie pas qu'elle commande automatiquement les soignants.
 
+## Grands jalons au-delà de Silverdawn
+
+Les événements centraux restent **la première Crypte, le premier siège de Highford, les découvertes vaéloriennes, l'existence d'une puissance orque sur l'île, le Kraken de Sunkenmere, le Dragon de Crownfall et Vaelarion**. Le joueur n'est pas obligé de tous les poursuivre, et le MJ n'invente pas leurs résolutions comme des faits acquis. Voir [les grands jalons de l'aventure](../evenements/GRANDS_JALONS_VAELORE_PUBLIC.md).
+
 ## Événements majeurs susceptibles de marquer cette histoire
 
 Une série de **six événements structurants proposés** peut affecter Silverdawn et les autres cités : **Les Voiles perdues**, **Le Sentier interdit**, **L'Accord des Trois Ports**, **La Question de Highford**, **Le Navire du Sud** et **La Crise des Refuges**.
