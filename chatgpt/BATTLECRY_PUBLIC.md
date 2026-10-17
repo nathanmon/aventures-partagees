@@ -1,0 +1,34 @@
+# Battlecry — présentation publique pour les aventures ChatGPT
+
+> Présentation accessible aux joueurs. Les sources du dépôt privé `nathanmon/battlecry` prévalent. Ce document ne contient pas les révélations réservées au MJ.
+
+## Vaélore
+
+Vaélore est une île immense révélée aux nouveaux arrivants après l'appel de deux figures anciennes, Vael et Veleth. L'intérieur conserve les vestiges d'une civilisation oubliée et certains gardiens continuent d'y agir. Les raisons et l'histoire détaillée de ces phénomènes sont à découvrir en jeu.
+
+Six peuples sont arrivés par la mer et ont établi leurs propres **ports récents**. Ces installations ne sont pas des cités vaéloriennes intactes.
+
+## Les six ports
+
+| Port | Peuple | Région | Faction |
+| --- | --- | --- | --- |
+| Silverdawn | Humains | Nord-est | Coalition |
+| Gladenthorn | Elfes | Nord-ouest | Coalition |
+| Ironpeak | Nains | Nord-centre | Coalition |
+| Krag'Thar | Orcs | Sud-est | Terres Brisées |
+| Blackpit | Gobelins | Sud-centre | Terres Brisées |
+| Nightshrine | Morts-vivants | Sud-ouest | Terres Brisées |
+
+Ces regroupements sont politiques et géographiques, pas une séparation automatique entre « gentils » et « méchants ».
+
+## Vivre sur Vaélore
+
+Un personnage peut arriver par bateau, trouver un travail, commercer, cultiver, naviguer, se joindre à une expédition, négocier, explorer, ou simplement habiter dans un port. La vie des colonies continue sans attendre qu'un aventurier accepte une quête.
+
+Les soldats, artisans, marchands, capitaines, marins, familles, explorateurs et habitants ont leurs propres buts et désaccords. Les détails des coutumes et institutions non définis dans le canon doivent rester explicitement proposés pour validation avant d'être officialisés.
+
+## Utilisation dans ChatGPT
+
+Le personnage débarque normalement au **quai de son port d'arrivée**, pas sur une plage face à des ruines monumentales. Les découvertes hors des colonies ne sont racontées qu'une fois réellement effectuées.
+
+Les relations, biographies et apparences des héros sont définies dans les documents canoniques privés ; une invention de scène n'est pas automatiquement du canon partagé.
