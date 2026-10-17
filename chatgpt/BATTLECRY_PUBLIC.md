@@ -23,7 +23,7 @@ Ces regroupements sont politiques et géographiques, pas une séparation automat
 
 ## Aventure humaine : personnages jouables
 
-Le joueur choisit exclusivement **Aldria, Caelan, Valerian ou Elira**. La date de départ dépend du héros choisi. Aldria accompagne les premiers Humains ; les dates des trois autres ne sont pas encore canoniquement établies.
+Le joueur choisit exclusivement **Aldria, Caelan, Valerian ou Elira**. La date de départ dépend du héros choisi. Aldria accompagne les premiers Humains ; pour cette aventure, **Caelan et Valerian arrivent ensuite (ordre indéterminé), puis Elira**. C'est une décision narrative du projet et non une chronologie officielle datée du jeu vidéo.
 
 [Chronologie et règles d'ouverture](HEROS_HUMAINS.md)
 
@@ -41,4 +41,6 @@ Les relations, biographies et apparences des héros sont définies dans les docu
 
 ## Dossiers de lieux
 
-- [Silverdawn — lore jouable (canon vérifié et propositions à valider)](lieux/SILVERDAWN.md)
+- [Silverdawn — dossier général (canon et propositions)](lieux/SILVERDAWN.md)
+- [Silverdawn — chronique des quatre périodes (nouveau lore proposé)](lieux/SILVERDAWN_CHRONIQUE.md)
+- [Silverdawn — habitants récurrents, métiers et tensions](lieux/SILVERDAWN_HABITANTS.md)
