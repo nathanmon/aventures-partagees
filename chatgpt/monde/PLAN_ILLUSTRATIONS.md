@@ -79,7 +79,7 @@ Les premiers **gardiens de Crypte**, la créature **Kraken** elle-même, le **Dr
 
 ## Scènes de rencontre, moments marquants et scènes émouvantes
 
-En plus des portraits, lieux et déclencheurs d'événements, la bibliothèque prévoit maintenant **des images d'interactions humaines et des moments à forte portée narrative**. Le document [Scènes de rencontres et émotions](SCENES_RENCONTRES_ET_EMOTIONS.md) contient **26 idées** classées en rencontres, moments marquants et moments émouvants, avec des restrictions sur l'époque, les acteurs, les révélations et les décisions du personnage joueur.
+En plus des portraits, lieux et déclencheurs d'événements, la bibliothèque prévoit maintenant **des images d'interactions humaines et des moments à forte portée narrative**. Le document [Scènes de rencontres et émotions](SCENES_RENCONTRES_ET_EMOTIONS.md) contient **25 idées** classées en rencontres, moments marquants et moments émouvants, avec des restrictions sur l'époque, les acteurs, les révélations et les décisions du personnage joueur.
 
 **13 scénarios à forte réutilisation** possèdent maintenant un identifiant `planned` dans le [manifeste](../../data/illustrations.json) : rencontres avec Mirel et Nara, arrivées d'Elfes et de Nains, rencontre orque possible ; départ à l'aube, navire endommagé, veille devant une Crypte, préparation de Highford ; adieux, soins, attente et retrouvailles.
 
