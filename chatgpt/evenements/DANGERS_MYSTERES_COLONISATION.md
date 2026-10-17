@@ -6,12 +6,12 @@
 
 ## 1. Les quatre événements historiques retenus
 
-| Événement inventé | Époque possible | Ce que le monde subit | Effets durables possibles |
+| Événement validé | Époque possible | Ce que le monde subit | Effets durables possibles |
 | --- | --- | --- | --- |
 | **La Saison des Meutes** | Les premiers champs de Silverdawn | Des groupes de loups se rapprochent des cultures et des chemins | Patrouilles, élevage protégé, chemins mieux surveillés |
 | **Les Voiles noires du large** | Après les premières liaisons régulières | Des pirates interceptent des navires sur des routes fréquentées | Nouvelles pratiques de veille maritime, caravanes navales |
 | **Les Bornes renversées** | Premières reconnaissances intérieures | Un ancien chemin et des marques de pierre deviennent difficiles à interpréter | Exploration plus méthodique, témoignages contradictoires |
-| **Les Cendres lointaines** | Quand les routes vers l'intérieur s'allongent | Un épisode de poussières ou de cendres d'origine volcanique perturbe des parcours | Approvisionnements différés, nouvelles observations de Crownfall |
+| **Les Cendres lointaines** | Quand les routes vers l'intérieur s'allongent | Des poussières ou des cendres perturbent certains parcours ; origine précise inconnue | Approvisionnements différés, observations et hypothèses sur Crownfall |
 
 **Validation acquise :** les quatre événements et leurs thèmes sont bien retenus pour l'histoire commune. Les **dates exactes, secteurs touchés, bilans, mécanismes mystérieux, personnages impliqués et dénouements** restent à définir. Les exemples de scènes ci-dessous servent aux aventures sans fixer rétrospectivement les actes des personnages joueurs.
 
