@@ -57,7 +57,7 @@ La première chronologie de colonisation propose six événements politiques, ma
 
 [Les grands événements de la colonisation (propositions)](evenements/GRANDS_EVENEMENTS_COLONISATION.md).
 
-**Événements historiques approuvés :** La Saison des Meutes, Les Voiles noires du large, Les Bornes renversées et Les Cendres lointaines. Leurs occurrences sont validées ; les dates, causes incertaines et dénouements restent ouverts.
+**Événements historiques approuvés pour les aventures ChatGPT (non intégrés au canon du jeu vidéo) :** La Saison des Meutes, Les Voiles noires du large, Les Bornes renversées et Les Cendres lointaines. Leurs occurrences sont validées ; les dates, causes incertaines et dénouements restent ouverts.
 
 [Quatre événements validés et mystères secondaires](evenements/DANGERS_MYSTERES_COLONISATION.md).
 

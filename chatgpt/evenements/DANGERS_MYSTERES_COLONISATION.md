@@ -1,6 +1,6 @@
 # Vaélore — dangers, catastrophes et mystères de la colonisation
 
-> **Quatre événements historiques validés par le créateur pour Battlecry**, à intégrer au canon via la PR en cours : **La Saison des Meutes**, **Les Voiles noires du large**, **Les Bornes renversées** et **Les Cendres lointaines**. Leur existence et leur thème général sont fixés ; leur chronologie exacte, les causes inconnues et les issues des aventures ne le sont pas. Les **trois mystères récurrents** de la section 6 restent des idées facultatives. Aucun héros n'a accompli d'exploit imposé.
+> **Quatre événements historiques validés pour l'histoire partagée des aventures ChatGPT**, sans modification du canon du jeu vidéo Battlecry : **La Saison des Meutes**, **Les Voiles noires du large**, **Les Bornes renversées** et **Les Cendres lointaines**. Leur existence et leur thème général sont fixés ; leur chronologie exacte, les causes inconnues et les issues des aventures ne le sont pas. Les **trois mystères récurrents** de la section 6 restent des idées facultatives. Aucun héros n'a accompli d'exploit imposé.
 >
 > **Canon source examiné :** `MONSTER_DESIGN.md`, `MONSTER_VISUAL_CANON.md`, `MAP_DESIGN.md`, `MAP_SITE_DISTRIBUTION.md`, `NARRATIVE_CHAPTERS_DESIGN.md` et `SOLO_EXPEDITION_OFFERS_DESIGN.md`. Ces documents fixent notamment les loups comme monstres ordinaires, les Pirates comme rencontres **en mer** dans le solo, les Cryptes comme vestiges **terrestres**, Crownfall comme volcan et l'ordre de découverte des grandes vérités vaéloriennes.
 
@@ -149,8 +149,8 @@ Ne pas introduire de ville, route ou côte à des coordonnées improvisées sur 
 
 ## 9. Décision acquise et précisions futures
 
-**Le créateur a validé les quatre événements comme faits de l'histoire de Battlecry.** Ils sont conservés séparément, y compris les deux événements naturels et les deux événements d'exploration ou de navigation. Les fusionner ou les retirer demanderait une nouvelle décision.
+**Le créateur a validé les quatre événements comme faits de l'histoire des aventures ChatGPT situées dans l'univers Battlecry, et non comme une demande de modifier le lore canonique du jeu vidéo.** Ils sont conservés séparément, y compris les deux événements naturels et les deux événements d'exploration ou de navigation. Les fusionner ou les retirer demanderait une nouvelle décision.
 
 Restent ouverts : les dates et durées, les routes et zones effectivement concernées, les noms de témoins, les causes encore inexpliquées, les pertes et toutes les décisions pouvant appartenir à Aldria, Caelan, Valerian ou Elira.
 
-**Le présent document décrit les événements validés mais ne garantit pas qu'ils sont déjà fusionnés sur `main` du dépôt privé.** Les trois petits mystères de la section 6 sont toujours de simples possibilités de récit.
+**Le présent document appartient uniquement au dépôt `aventures-partagees` : il ne nécessite aucune modification du dépôt privé Battlecry.** Les trois petits mystères de la section 6 sont toujours de simples possibilités de récit.
