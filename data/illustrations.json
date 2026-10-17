@@ -1,0 +1,114 @@
+{
+  "version": 1,
+  "base": "/aventures-partagees/",
+  "items": [
+    {
+      "universe": "battlecry",
+      "id": "port-silverdawn",
+      "title": "Port de Silverdawn",
+      "type": "port",
+      "people": "Humains",
+      "location": "Silverdawn",
+      "status": "planned",
+      "file": null,
+      "spoilers": "public",
+      "description": "Quais d'une implantation humaine récente, chargement et activité maritime."
+    },
+    {
+      "universe": "battlecry",
+      "id": "port-gladenthorn",
+      "title": "Port de Gladenthorn",
+      "type": "port",
+      "people": "Elfes",
+      "location": "Gladenthorn",
+      "status": "planned",
+      "file": null,
+      "spoilers": "public",
+      "description": "Navigation elfique, bois vivant, voilures et végétation."
+    },
+    {
+      "universe": "battlecry",
+      "id": "port-ironpeak",
+      "title": "Port d'Ironpeak",
+      "type": "port",
+      "people": "Nains",
+      "location": "Ironpeak",
+      "status": "planned",
+      "file": null,
+      "spoilers": "public",
+      "description": "Port-forteresse naine, chaînes, grues et ateliers."
+    },
+    {
+      "universe": "battlecry",
+      "id": "port-krag-thar",
+      "title": "Port de Krag'Thar",
+      "type": "port",
+      "people": "Orcs",
+      "location": "Krag'Thar",
+      "status": "planned",
+      "file": null,
+      "spoilers": "public",
+      "description": "Port militaire orc et navires robustes."
+    },
+    {
+      "universe": "battlecry",
+      "id": "port-blackpit",
+      "title": "Port de Blackpit",
+      "type": "port",
+      "people": "Gobelins",
+      "location": "Blackpit",
+      "status": "planned",
+      "file": null,
+      "spoilers": "public",
+      "description": "Récupération nautique et ateliers ingénieux."
+    },
+    {
+      "universe": "battlecry",
+      "id": "port-nightshrine",
+      "title": "Port de Nightshrine",
+      "type": "port",
+      "people": "Morts-vivants",
+      "location": "Nightshrine",
+      "status": "planned",
+      "file": null,
+      "spoilers": "public",
+      "description": "Flotte funéraire et implantation côtière récente."
+    },
+    {
+      "universe": "battlecry",
+      "id": "scene-silverdawn-place",
+      "title": "Place de Silverdawn",
+      "type": "vie quotidienne",
+      "people": "Humains",
+      "location": "Silverdawn",
+      "status": "planned",
+      "file": null,
+      "spoilers": "public",
+      "description": "Colons, échanges et préparatifs d'expéditions."
+    },
+    {
+      "universe": "battlecry",
+      "id": "scene-crypte-exterieure",
+      "title": "Entrée d'une crypte ancienne",
+      "type": "exploration",
+      "people": "Tous",
+      "location": "Vaélore",
+      "status": "planned",
+      "file": null,
+      "spoilers": "public",
+      "description": "Entrée monumentale d'un ancien site, sans révéler son contenu."
+    },
+    {
+      "universe": "battlecry",
+      "id": "portrait-aldria",
+      "title": "Portrait d'Aldria",
+      "type": "personnage",
+      "people": "Humains",
+      "location": "Coalition",
+      "status": "planned",
+      "file": null,
+      "spoilers": "public",
+      "description": "Portrait canonique à exporter et valider avant publication."
+    }
+  ]
+}
