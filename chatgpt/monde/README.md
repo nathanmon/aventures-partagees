@@ -19,6 +19,10 @@ Le [plan de production des illustrations](PLAN_ILLUSTRATIONS.md) relie **personn
 | [Organisations et métiers](ORGANISATIONS_ET_METIERS.md) | Équipages, ateliers, garnisons, expéditions, réseaux de travail, institutions restant à valider |
 | [Rumeurs, légendes et traditions](RUMEURS_ET_TRADITIONS.md) | Histoires circulant entre les habitants, informations incertaines, usages sociaux et limites anti-spoilers |
 
+## Scènes de rencontres, moments marquants et émotion
+
+Le [dossier d'idées d'illustrations de scènes](SCENES_RENCONTRES_ET_EMOTIONS.md) propose des images pour les **rencontres entre personnes**, les **situations qui changent le monde** et les **moments de joie, de peine ou de solidarité**, sans préécrire les réactions des héros. Les sujets prioritaires sont ajoutés au manifeste d'illustrations avec le statut `planned`. Le [plan graphique principal](PLAN_ILLUSTRATIONS.md) décrit la direction artistique et les étapes de validation.
+
 ## Comment distinguer vérité du monde et matériau inventé ?
 
 - **[CANON JEU]** : soutenu par les spécifications officielles privées du jeu vidéo ; prévaut en cas de contradiction. Cela inclut les six ports, les races, les héros, les grandes zones, les familles d'ennemis et les chapitres.

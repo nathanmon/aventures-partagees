@@ -13,6 +13,8 @@
 
 - [x] Définir un plan de production reliant personnages, lieux, événements et époques aux illustrations.
 - [x] Enrichir le catalogue prévisionnel avec les quatre événements validés, les héros humains et les grandes étapes explorables.
+- [x] Définir des scènes de **rencontre**, des **moments marquants** et des **scènes émouvantes** avec leurs conditions d'affichage.
+- [x] Ajouter 13 intentions visuelles réutilisables à la galerie prévisionnelle.
 - [ ] Produire et valider les illustrations prioritaires P0 ; **aucun fichier `ready` publié pour le moment**.
 
 

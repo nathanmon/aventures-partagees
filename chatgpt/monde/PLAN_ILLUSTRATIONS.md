@@ -77,6 +77,14 @@ Le manifeste source est [`data/illustrations.json`](../../data/illustrations.jso
 
 Les premiers **gardiens de Crypte**, la créature **Kraken** elle-même, le **Dragon** lui-même et les figures des révélations avancées mériteraient des illustrations fortes lors d'une **rencontre réellement vécue**, sans charger leur secret en avance dans un catalogue public. Le MJ peut préparer un **brief privé au moment de la rencontre**, puis générer, montrer ou conserver la scène selon ce que le personnage a observé.
 
+## Scènes de rencontre, moments marquants et scènes émouvantes
+
+En plus des portraits, lieux et déclencheurs d'événements, la bibliothèque prévoit maintenant **des images d'interactions humaines et des moments à forte portée narrative**. Le document [Scènes de rencontres et émotions](SCENES_RENCONTRES_ET_EMOTIONS.md) contient **26 idées** classées en rencontres, moments marquants et moments émouvants, avec des restrictions sur l'époque, les acteurs, les révélations et les décisions du personnage joueur.
+
+**13 scénarios à forte réutilisation** possèdent maintenant un identifiant `planned` dans le [manifeste](../../data/illustrations.json) : rencontres avec Mirel et Nara, arrivées d'Elfes et de Nains, rencontre orque possible ; départ à l'aube, navire endommagé, veille devant une Crypte, préparation de Highford ; adieux, soins, attente et retrouvailles.
+
+**Les illustrations sont conditionnelles** : ne pas montrer une retrouvaille avant qu'elle ait lieu, ni faire apparaître les Elfes ou les Nains à Silverdawn à une époque incompatible avec leur arrivée, ni afficher un héros accomplissant un choix que le joueur n'a pas fait. Les scènes d'émotion peuvent mettre en avant **des figurants anonymes** plutôt que le personnage-joueur pour rester réutilisables.
+
 ## 4. Portraits secondaires à prévoir sans encombrer la galerie
 
 ### Silverdawn : sept habitants déjà définis en RP

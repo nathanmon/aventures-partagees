@@ -18,13 +18,19 @@ Catalogue machine-lisible : https://nathanmon.github.io/aventures-partagees/data
 
 Le [plan des illustrations narratives](monde/PLAN_ILLUSTRATIONS.md) associe maintenant les **héros, PNJ, six ports, époques de Silverdawn, grands jalons et quatre événements historiques validés** à des sujets d'illustrations identifiables.
 
-Le manifeste [`data/illustrations.json`](../data/illustrations.json) contient **28 entrées prévues**, sans fichier image publié à ce stade. Les sujets supplémentaires à produire plus tard, dont des portraits de PNJ des autres ports, sont décrits dans le plan sans remplir inutilement la galerie.
+Le manifeste [`data/illustrations.json`](../data/illustrations.json) contient **41 entrées prévues**, sans fichier image publié à ce stade. Les sujets supplémentaires à produire plus tard, dont des portraits de PNJ des autres ports, sont décrits dans le plan sans remplir inutilement la galerie.
 
 - **P0** : Silverdawn initiale, Aldria, première Crypte vue de l'extérieur, quatre événements validés, premières explorations.
 - **P1** : autres époques de Silverdawn, Caelan/Valerian/Elira, auberge et PNJ, premiers contacts et régions lointaines.
 - **P2** : personnages récurrents supplémentaires et illustrations post-découverte, uniquement selon les aventures.
 
 Chaque sujet lié à un événement représente le **déclenchement ou une situation**, pas une victoire ou une décision d'un joueur. Une illustration d'avant découverte ne révèle pas le contenu secret du lieu. Les visuels non publics ne doivent pas être enregistrés dans ce dépôt public, **même dans des métadonnées masquées par la galerie**.
+
+## Scènes humaines, rencontres et émotions
+
+Le [catalogue d'idées de scènes](monde/SCENES_RENCONTRES_ET_EMOTIONS.md) propose des **rencontres**, des **moments marquants** et des **moments émouvants**. **13 sujets supplémentaires** sont prévus dans le manifeste : premiers contacts avec Mirel et Nara, arrivées d'alliés, rencontre orque éventuelle, départ d'expédition, retour de navire endommagé, veille devant la Crypte, préparation devant Highford, adieux, soins, attente et retrouvailles.
+
+Une image émotionnelle **n'affirme jamais une décision ou un sentiment du personnage joueur** : elle est visible seulement si la scène correspond réellement aux faits de la partie. Certaines entrées peuvent être illustrées avec des figurants anonymes et réutilisées dans différentes sessions.
 
 ## Première bibliothèque prévue
 
