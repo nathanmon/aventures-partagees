@@ -11,7 +11,7 @@ Les autres héros ne peuvent apparaître que si leur présence est cohérente av
 ## 1. Canon vérifié — ce qui est déjà établi
 
 - **Lieu :** Silverdawn, port de départ des **Humains** au **nord-est** de Vaélore, dans la zone de départ de la **Coalition**.
-- **Origine :** une implantation **récente**, née de l'arrivée maritime des Humains, pas une ancienne cité vaélorienne.
+- **Origine :** une implantation **récente**, née du débarquement des **premiers arrivants humains sur l'île**, pas une ancienne cité vaélorienne.
 - **Ambiance et culture :** une **expédition maritime organisée**, mêlant marins, militaires, explorateurs et colons ; habits de voyage, outillage utile, quais et constructions récentes. Les villes portuaires possèdent une architecture liée à leur peuple.
 - **Capitaine Aldria :** navigatrice, exploratrice, diplomate improvisée, commandante proche de ses équipages. Elle mène naturellement les **premiers Humains débarquant** sur Vaélore. Cela **ne signifie pas** qu'elle est obligatoirement la dirigeante de la colonie à toute époque.
 - **Sire Caelan :** stratège ambitieux, réfléchit en campagnes, lignes d'approvisionnement et avantages durables ; il connaît Aldria depuis des expéditions antérieures et leurs méthodes divergent.
@@ -21,6 +21,10 @@ Les autres héros ne peuvent apparaître que si leur présence est cohérente av
 - **Évolution visuelle de la ville :** le jeu représente le port humain par des états croissants N1/N2/N3. Pour une aventure narrative, ces *niveaux de jeu* ne constituent pas des âges chronologiques rigides ni une règle obligeant à voir un seul bateau réel au port.
 
 **Références canoniques (privées) :** `nathanmon/battlecry/docs/design/MAP_DESIGN.md`, `WORLD_LORE.md`, `HERO_BIO_VISUAL_DESIGN.md`, `HERO_RELATIONSHIPS_DESIGN.md`, `ART_DIRECTION.md`, `SOLO_CITY_ART_ASSETS_DESIGN.md`. En cas de divergence, le canon spécialisé du dépôt privé prévaut.
+
+## Accueil d'alliés et choix politiques
+
+Dans le mode solo, **des navires elfes et nains peuvent débarquer au port humain de Silverdawn si les choix politiques l'autorisent**. Ce n'est pas incompatible avec l'existence de Gladenthorn et Ironpeak, qui restent des villes portuaires distinctes. Les circonstances diplomatiques exactes sont encore à écrire et les arrivées alliées ne sont pas automatiques. Voir [Le Grand Appel et les débarquements](../L_APPEL_ET_DEBARQUEMENTS.md).
 
 ## 2. Proposition MJ — la ville que découvre un personnage
 

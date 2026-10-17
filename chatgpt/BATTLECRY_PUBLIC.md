@@ -6,7 +6,11 @@
 
 Vaélore est une île immense révélée aux nouveaux arrivants après l'appel de deux figures anciennes, Vael et Veleth. L'intérieur conserve les vestiges d'une civilisation oubliée et certains gardiens continuent d'y agir. Les raisons et l'histoire détaillée de ces phénomènes sont à découvrir en jeu.
 
-Six peuples sont arrivés par la mer et ont établi leurs propres **ports récents**. Ces installations ne sont pas des cités vaéloriennes intactes.
+Les **Humains sont les premiers à arriver** sur Vaélore. Six peuples prennent ensuite pied sur l'île par la mer et fondent leurs propres **ports récents**. Ces installations ne sont pas des cités vaéloriennes intactes. **Des navires elfes et nains peuvent également débarquer directement à Silverdawn** lorsque les choix politiques le permettent dans le mode solo.
+
+## Le Grand Appel
+
+Vael et Veleth utilisent **une seule technologie de diffusion technomagique** pour envoyer leur message au **plus grand nombre possible de destinataires** ; ils ne ciblent pas une liste de six peuples. Le système exact n'est pas encore défini. [Cadre de l'appel et des débarquements](L_APPEL_ET_DEBARQUEMENTS.md).
 
 ## Les six ports
 

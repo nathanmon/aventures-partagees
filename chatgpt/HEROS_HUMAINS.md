@@ -21,7 +21,7 @@
 4. Pour Caelan et Valerian, respecter leur arrivée **après Aldria et avant Elira**. L'ordre entre eux ainsi que les dates précises restent à trancher : ne pas les présenter comme des faits canoniques. Elira débute **après les deux héros rares**, dans un port plus développé. Consulter [la chronique fondatrice](lieux/SILVERDAWN_CHRONIQUE.md).
 5. Adapter l'avancement de Silverdawn (quais, bâtiments, population, activité) à la période. Les niveaux N1-N3 du jeu vidéo ne sont pas des dates calendaires.
 6. Les trois héros humains non choisis peuvent être des PNJ **seulement s'ils sont présents à cette période**. La présence d'un héros ne doit pas être forcée pour créer une scène.
-7. Les autres peuples et leurs héros continuent d'exister dans Vaélore. Cette restriction ne concerne que les **personnages jouables de cette aventure humaine**.
+7. Les autres peuples et leurs héros continuent d'exister dans Vaélore. **Des Elfes et des Nains peuvent débarquer à Silverdawn si les choix politiques le permettent**, même s'ils possèdent leurs propres ports. Cette restriction ne concerne que les **personnages jouables de cette aventure humaine**.
 
 ## Liberté et continuité des parties
 

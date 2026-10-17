@@ -4,7 +4,7 @@
 
 ## 1. L'île qui oblige à construire
 
-Silverdawn n'a pas été découverte toute bâtie. C'est l'un des six ports fondés après l'appel de Vael et Veleth. Le port humain, sur la côte nord-est de Vaélore, est d'abord un point où débarquer, nourrir, abriter et protéger des gens. La pierre, le bois, le fer et les vivres ont plus d'importance aux yeux de bien des colons qu'une antique énigme dans les montagnes.
+Silverdawn n'a pas été découverte toute bâtie. **Les Humains sont les premiers peuples à débarquer sur Vaélore** ; Silverdawn est l'un des six ports fondés après le Grand Appel diffusé largement par une seule technologie vaélorienne. Le port humain, sur la côte nord-est de Vaélore, est d'abord un point où débarquer, nourrir, abriter et protéger des gens. La pierre, le bois, le fer et les vivres ont plus d'importance aux yeux de bien des colons qu'une antique énigme dans les montagnes.
 
 **Proposition de devise locale :** « La mer nous amène ; la terre décide si nous restons. » Elle vient des équipages, pas d'une institution millénaire.
 
@@ -43,7 +43,7 @@ C'est une période où **Caelan ou Valerian peut arriver**. Le premier débarque
 
 ### Temps des Convois : sortir du port
 
-La ville organise des allers-retours entre la côte et les approches terrestres. Les navires apportent du matériel, des voyageurs, des nouvelles. Les premiers rapports sur l'intérieur ne sont pas tous fiables : une trace de bête peut être confondue avec un danger, un convoi retardé avec un convoi disparu.
+Selon les accords et décisions politiques, **les navires elfes et nains peuvent accoster et débarquer directement à Silverdawn**, plutôt que de se limiter aux ports de Gladenthorn et d'Ironpeak. Leur accueil ne doit pas être automatique si l'alliance ne le permet pas. La ville organise des allers-retours entre la côte et les approches terrestres. Les navires apportent du matériel, des voyageurs, des nouvelles. Les premiers rapports sur l'intérieur ne sont pas tous fiables : une trace de bête peut être confondue avec un danger, un convoi retardé avec un convoi disparu.
 
 **Événement local proposé — Les lanternes du chemin :** les équipes de reconnaissance installent un code simple de départs et retours. Une lanterne oubliée crée un malentendu ; une patrouille revient sans comprendre l'inquiétude de la ville. Le système est ensuite amélioré par des habitants, même sans intervention héroïque.
 
@@ -98,7 +98,13 @@ Les colons connaissent l'existence de Vaélore et l'appel qui a conduit les peup
 
 Une partie d'Aldria peut influencer la ville *dans cette partie*. Ses actes ne deviennent pas une histoire officielle affectant Caelan, Valerian ou Elira dans d'autres conversations tant qu'un événement commun n'a pas été validé. La chronique présente constitue une **base initiale indépendante de ces sessions**.
 
-## 7. Scènes d'ouverture selon le héros
+## 7. La diplomatie et les arrivées alliées
+
+**Principe déjà décidé :** l'arrivée des Elfes et des Nains au **port humain de Silverdawn** dépend des **choix politiques**. L'existence de leurs propres villes portuaires n'interdit pas ces débarquements.
+
+**Situations politiques proposées, non encore canonisées :** négociations sur l'accueil de navires alliés, droit de commercer sur les quais, partage des vivres, présence de garnisons étrangères et gestion des désaccords entre capitaines. Le MJ ne doit pas convertir ces propositions en traité historique déjà signé ni décider à la place du héros-joueur. Lire [Le Grand Appel et les débarquements](../L_APPEL_ET_DEBARQUEMENTS.md).
+
+## 8. Scènes d'ouverture selon le héros
 
 **Aldria — Temps des Amarres.** Un premier navire s'apprête à accoster au port naissant. Des manutentionnaires donnent des ordres contradictoires, une amarre tire trop fort et plusieurs voyageurs attendent de descendre. Les équipes commencent à agir ; le joueur décide ce que fait Aldria.
 
@@ -110,6 +116,6 @@ Une partie d'Aldria peut influencer la ville *dans cette partie*. Ses actes ne d
 
 Les scènes ne présupposent aucune parole ni décision du héros-joueur. Elles n'imposent pas de quête principale.
 
-## 8. Illustrations à créer après validation
+## 9. Illustrations à créer après validation
 
 Quatre vues du **même port à quatre époques** : pontons pionniers ; chantier et place ; port renforcé avec convois ; quartier civil plus organisé à l'arrivée d'Elira. Plus tard : comptoir, ateliers, entrée terrestre et portraits des habitants. **Aucun fichier image n'est encore prêt par le seul fait de cette liste.**
