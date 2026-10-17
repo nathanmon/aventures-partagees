@@ -143,8 +143,8 @@ Le jeu solo n'intègre pas de choix politique pour débloquer Elfes ou Nains : *
 
 ### Références internes
 
-- [Chronique de Silverdawn](SILVERDAWN_CHRONIQUE.md)
-- [Habitants et relations](SILVERDAWN_HABITANTS.md)
+- [Chronique de Silverdawn](../lieux/SILVERDAWN_CHRONIQUE.md)
+- [Habitants et relations](../lieux/SILVERDAWN_HABITANTS.md)
 - [Le choix d'accueillir des alliés](../choix/ACCUEIL_ALLIES_SILVERDAWN.md)
 - [Coalition et cités indépendantes](../COALITION.md)
 

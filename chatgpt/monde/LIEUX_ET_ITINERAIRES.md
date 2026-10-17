@@ -13,7 +13,7 @@
 | **Blackpit** | Gobelins | Sud-centre | Recyclage, ateliers nautiques, petites machines et alchimie |
 | **Nightshrine** | Morts-vivants | Sud-ouest | Flotte funéraire, navires spectraux, capitaines et équipages revenus |
 
-Toutes ces cités sont **récentes** à l'échelle de Vaélore, et non les anciennes cités de pierre de la civilisation vaélorienne. **Les quatre villes de la Coalition et Terres Brisées n'existent pas** : il s'agit de **trois ports par faction, six au total**. Aucune capitale fédérale de la Coalition n'est déclarée.
+Toutes ces cités sont **récentes** à l'échelle de Vaélore, et non les anciennes cités de pierre de la civilisation vaélorienne. Il s'agit de **trois ports par faction, six au total**, et non d'une seule ville pour une faction entière. Aucune capitale fédérale de la Coalition n'est déclarée.
 
 ## 2. Silverdawn : découper l'espace par usages, sans inventer le plan officiel
 
