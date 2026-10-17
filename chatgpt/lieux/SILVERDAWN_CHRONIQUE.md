@@ -106,6 +106,8 @@ Une partie d'Aldria peut influencer la ville *dans cette partie*. Ses actes ne d
 
 **Situations politiques proposées, non encore canonisées :** négociations entre alliés déjà liés, droits commerciaux, partage des vivres, soutien entre cités autonomes et désaccords entre capitaines. Le MJ ne doit pas convertir ces propositions en traité historique déjà signé, ni les utiliser pour bloquer une filière de recrutement du jeu vidéo. Elles constituent une matière narrative et peuvent évoluer dans les aventures. Lire [Le Grand Appel et les débarquements](../L_APPEL_ET_DEBARQUEMENTS.md).
 
+**Choix narratif possible (Aldria ou Caelan) :** accueillir ou refuser l'installation durable d'Elfes et de Nains à Silverdawn, peuple par peuple. Les alliés gardent leurs cités et le refus ne détruit pas automatiquement la Coalition. Le PJ tranche uniquement s'il dispose de la compétence politique effective dans la scène ; sinon, il peut négocier. Ce choix n'a aucun effet sur le deckbuilding du jeu vidéo. Voir [Accueil des alliés](../choix/ACCUEIL_ALLIES_SILVERDAWN.md).
+
 ## 8. Scènes d'ouverture selon le héros
 
 **Aldria — Temps des Amarres.** Un premier navire s'apprête à accoster au port naissant. Des manutentionnaires donnent des ordres contradictoires, une amarre tire trop fort et plusieurs voyageurs attendent de descendre. Les équipes commencent à agir ; le joueur décide ce que fait Aldria.

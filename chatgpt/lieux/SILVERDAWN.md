@@ -26,6 +26,8 @@ Les autres héros ne peuvent apparaître que si leur présence est cohérente av
 
 Dans le mode solo, **les navires elfes et nains peuvent débarquer directement au port humain de Silverdawn**, grâce aux **filières du Port N2 (Elfes) et N3 (Nains)**, sans choix politique préalable. Il s'agit d'un choix de gameplay favorisant le **deckbuilding multiracial**. Gladenthorn et Ironpeak restent des ports distincts dans le monde. Leurs relations diplomatiques avec Silverdawn peuvent nourrir des scènes et événements historiques dans ChatGPT, mais **ne bloquent pas le recrutement du jeu vidéo**. Voir [Le Grand Appel et les débarquements](../L_APPEL_ET_DEBARQUEMENTS.md).
 
+**Choix de jeu de rôle proposé :** Aldria ou Caelan peut être confronté à une demande d'installation durable de groupes elfes et/ou nains dans la cité humaine. Le joueur peut accepter, refuser ou négocier, sans rompre automatiquement l'alliance ancienne ni modifier le recrutement du solo. Voir [le dossier de ce choix narratif](../choix/ACCUEIL_ALLIES_SILVERDAWN.md).
+
 ## 2. Proposition MJ — la ville que découvre un personnage
 
 Ce qui suit est une **proposition d'extension**, utilisable en session comme décor local, mais **non validée comme histoire partagée officielle**.

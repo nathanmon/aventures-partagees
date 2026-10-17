@@ -23,6 +23,12 @@
 6. Les trois héros humains non choisis peuvent être des PNJ **seulement s'ils sont présents à cette période**. La présence d'un héros ne doit pas être forcée pour créer une scène.
 7. Les autres peuples et leurs héros continuent d'exister dans Vaélore. **Des bateaux elfes et nains peuvent débarquer à Silverdawn grâce à la progression du Port (N2 et N3) dans le solo**, sans choix politique, même si ces peuples possèdent leurs propres ports. Cette restriction ne concerne que les **personnages jouables de cette aventure humaine**.
 
+## Décisions politiques proposées à Aldria ou Caelan
+
+Dans les aventures ChatGPT, **Aldria et Caelan peuvent décider, négocier ou contester l'installation durable de groupes elfes ou nains à Silverdawn**, selon leurs responsabilités et le moment de leur histoire. Ce n'est pas une action obligatoire ni un choix binaire rigide : chaque peuple peut recevoir une réponse différente. Voir [l'accueil des alliés à Silverdawn](choix/ACCUEIL_ALLIES_SILVERDAWN.md).
+
+**Ne pas faire découler cette politique des niveaux de port du jeu vidéo** : le recrutement elfe/nain du solo reste automatique par progression des filières N2/N3, sans choix politique.
+
 ## Liberté et continuité des parties
 
 Le joueur contrôle entièrement les actes, paroles et intentions du héros incarné. Les autres personnages, villes et factions agissent sans l'attendre. Une partie individuelle n'ajoute pas automatiquement ses événements à l'histoire commune : il faut une validation explicite.

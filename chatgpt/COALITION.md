@@ -34,6 +34,13 @@ Les navires elfes et nains peuvent **débarquer directement au port humain** san
 
 Dans les aventures ChatGPT, les échanges et tensions entre cités peuvent fournir des scènes et des intrigues, mais le MJ ne doit ni imposer de quête diplomatique principale, ni attribuer une décision au héros-joueur.
 
+
+## Choix possible pour Aldria et Caelan (aventures ChatGPT)
+
+À Silverdawn, **Aldria ou Caelan peut être amené à accepter, refuser ou négocier l'installation durable** de groupes elfes ou nains. Les deux peuples restent des alliés indépendants, même si une demande de résidence ou d'établissement est refusée. Cette décision est **proposée au joueur, jamais décidée d'avance**, et ses conséquences appartiennent à sa session sauf validation comme événement partagé. Elle **ne modifie pas le recrutement multiracial du mode solo**, qui dépend uniquement du Port N2/N3.
+
+Voir [Accueil des alliés à Silverdawn](choix/ACCUEIL_ALLIES_SILVERDAWN.md).
+
 ## À préciser avant canonisation dans le jeu
 
 Les autorités dirigeant chacune des trois cités ; les éventuels accords antérieurs entre peuples ; les modalités de coordination sur Vaélore ; les événements historiques majeurs qui ont éprouvé leur entente.
