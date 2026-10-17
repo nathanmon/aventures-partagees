@@ -1,10 +1,10 @@
 # Vaélore — dangers, catastrophes et mystères de la colonisation
 
-> **Proposition de lore pour Aventures partagées — non canonisée.** Quatre grands événements et plusieurs fils de mystère, sans intrigues politiques supplémentaires. Les faits établis du dépôt privé Battlecry priment. Les événements ne sont pas automatiquement les quêtes des joueurs et **n'imposent aucun exploit à Aldria, Caelan, Valerian ou Elira**.
+> **Quatre événements historiques validés par le créateur pour Battlecry**, à intégrer au canon via la PR en cours : **La Saison des Meutes**, **Les Voiles noires du large**, **Les Bornes renversées** et **Les Cendres lointaines**. Leur existence et leur thème général sont fixés ; leur chronologie exacte, les causes inconnues et les issues des aventures ne le sont pas. Les **trois mystères récurrents** de la section 6 restent des idées facultatives. Aucun héros n'a accompli d'exploit imposé.
 >
 > **Canon source examiné :** `MONSTER_DESIGN.md`, `MONSTER_VISUAL_CANON.md`, `MAP_DESIGN.md`, `MAP_SITE_DISTRIBUTION.md`, `NARRATIVE_CHAPTERS_DESIGN.md` et `SOLO_EXPEDITION_OFFERS_DESIGN.md`. Ces documents fixent notamment les loups comme monstres ordinaires, les Pirates comme rencontres **en mer** dans le solo, les Cryptes comme vestiges **terrestres**, Crownfall comme volcan et l'ordre de découverte des grandes vérités vaéloriennes.
 
-## 1. Quatre événements à débattre
+## 1. Les quatre événements historiques retenus
 
 | Événement inventé | Époque possible | Ce que le monde subit | Effets durables possibles |
 | --- | --- | --- | --- |
@@ -13,13 +13,13 @@
 | **Les Bornes renversées** | Premières reconnaissances intérieures | Un ancien chemin et des marques de pierre deviennent difficiles à interpréter | Exploration plus méthodique, témoignages contradictoires |
 | **Les Cendres lointaines** | Quand les routes vers l'intérieur s'allongent | Un épisode de poussières ou de cendres d'origine volcanique perturbe des parcours | Approvisionnements différés, nouvelles observations de Crownfall |
 
-Les **noms, dates, ampleurs, causes particulières et résultats** sont proposés, pas des faits historiques confirmés. Plusieurs événements peuvent ne jamais devenir canoniques, ou conserver uniquement leur déclencheur.
+**Validation acquise :** les quatre événements et leurs thèmes sont bien retenus pour l'histoire commune. Les **dates exactes, secteurs touchés, bilans, mécanismes mystérieux, personnages impliqués et dénouements** restent à définir. Les exemples de scènes ci-dessous servent aux aventures sans fixer rétrospectivement les actes des personnages joueurs.
 
 ## 2. La Saison des Meutes
 
-**Fond établi :** les loups sont une espèce ordinaire de Vaélore, susceptible d'être rencontrée dans les activités d'expédition et de chasse. **Invention :** une période de pression inhabituelle autour des terres cultivées humaines.
+**Événement validé :** une période de pression inhabituelle des meutes de loups autour des terres cultivées humaines. Les loups appartiennent au bestiaire canonique de Vaélore ; l'origine précise de cet épisode reste inconnue.
 
-### Situation
+### Situation et témoignages possibles
 
 Après les premières récoltes, plusieurs travailleurs découvrent des clôtures endommagées et des pistes près des réserves. Les animaux évitent parfois les hommes, parfois non. Les récits grossissent plus vite que les faits. Une petite patrouille pense identifier une meute ; d'autres y voient plusieurs groupes distincts.
 
@@ -35,11 +35,11 @@ Protéger des bâtiments, suivre une piste, chercher à comprendre le comporteme
 
 ### Suites proposées
 
-Des postes de veille près des exploitations et une meilleure connaissance du terrain. **À valider :** l'importance historique de l'épisode, sa durée et les secteurs concernés.
+Des postes de veille près des exploitations et une meilleure connaissance du terrain. **Détails encore à fixer :** l'importance historique de l'épisode, sa durée et les secteurs concernés.
 
 ## 3. Les Voiles noires du large
 
-**Fond établi :** les Pirates sont des adversaires des **expéditions maritimes** en solo, sans camp pirate terrestre ou littoral permanent à placer sur la carte. **Invention :** une période d'attaques contre des routes de commerce et de ravitaillement.
+**Événement validé :** une période d'attaques de **Pirates en mer** sur les routes commerciales et de ravitaillement. Le jeu solo conserve ses expéditions maritimes sans camp pirate terrestre ou littoral permanent.
 
 ### Situation
 
@@ -57,7 +57,7 @@ Accompagner une traversée, négocier le passage, trouver une route, enquêter s
 
 ### Suites proposées
 
-Des usages de veille et de signalisation en mer, et des histoires de capitaines qui circulent entre les ports. **À valider :** ampleur des pertes, date, présence éventuelle d'un navire connu et extension des risques au-delà des routes humaines.
+Des usages de veille et de signalisation en mer, et des histoires de capitaines qui circulent entre les ports. **Détails encore à fixer :** ampleur des pertes, date, présence éventuelle d'un navire connu et extension des risques au-delà des routes humaines.
 
 ### Éviter le doublon
 
@@ -65,7 +65,7 @@ Cet épisode est **distinct des « Voiles perdues »** du dossier d'événements
 
 ## 4. Les Bornes renversées
 
-**Fond établi :** les approches terrestres mènent à d'anciens sites vaéloriens ; les vestiges peuvent être explorés, mais les découvertes majeures suivent un ordre narratif. **Invention :** des bornes et chemins de pierre dont la fonction est inconnue aux nouveaux arrivants.
+**Événement validé :** des bornes anciennes et des chemins de pierre sont signalés comme perturbés ou devenus difficiles à interpréter. Leur fonction et la raison des anomalies ne sont **pas** fixées ; les découvertes majeures de la civilisation vaélorienne conservent leur ordre narratif.
 
 ### Situation
 
@@ -87,11 +87,11 @@ La **première Crypte narrative** du jeu vidéo conserve sa fonction de **premi�
 
 ### Suites proposées
 
-Une pratique de cartes annotées par plusieurs équipages et la certitude que l'intérieur est plus compliqué qu'une étendue de ruines faciles à traverser. **À valider :** emplacement cohérent sur la carte et nature réelle des bornes si l'on souhaite un jour la définir.
+Une pratique de cartes annotées par plusieurs équipages et la certitude que l'intérieur est plus compliqué qu'une étendue de ruines faciles à traverser. **Détails encore à fixer :** emplacement cohérent sur la carte et nature réelle des bornes si l'on souhaite un jour la définir.
 
 ## 5. Les Cendres lointaines
 
-**Fond établi :** **Crownfall** est une zone volcanique, avec un cratère et des contreforts montagneux. **Invention :** des voyageurs signalent, lors d'une période donnée, une poussière grise et une visibilité réduite sur certains trajets.
+**Événement validé :** au cours d'une période donnée, des voyageurs signalent des retombées de poussières ou de cendres et une visibilité réduite sur certains itinéraires. Le lien précis avec la région volcanique de **Crownfall** reste une hypothèse à vérifier, sans décréter une éruption majeure.
 
 ### Situation
 
@@ -109,7 +109,7 @@ Reconnaître une route, enquêter sur la poudre, porter secours, participer aux 
 
 ### Suites proposées
 
-Des itinéraires saisonniers et une prudence accrue à l'égard des contreforts de Crownfall. **À valider :** date, conditions météorologiques, secteurs atteints et réalité exacte de l'épisode.
+Des itinéraires saisonniers et une prudence accrue à l'égard des contreforts de Crownfall. **Détails encore à fixer :** date, conditions météorologiques, secteurs atteints et réalité exacte de l'épisode.
 
 ## 6. Trois mystères récurrents, sans réponse divulguée
 
@@ -141,16 +141,16 @@ L'ordre d'arrivée **Caelan / Valerian** reste non fixé. L'environnement de cha
 ## 8. Statut des événements et respect des autres sources
 
 1. **Canon Battlecry consulté :** espèces et domaines d'apparition, geography générale, existence du volcan, ordre des révélations. Ces faits ne sont pas des inventions de ce dossier.
-2. **Propositions à discuter :** les quatre événements nommés, leurs dates et effets, les trois mystères et tous les personnages secondaires propres à une scène.
+2. **Événements validés pour l'histoire commune :** les quatre épisodes nommés dans les sections 2 à 5, **sans leurs dates précises, explications définitives ni résultats imputés à des héros**. Les trois mystères de la section 6, les témoins nommés et les scénarios particuliers restent des propositions facultatives.
 3. **Événements locaux à une session :** décisions, sauvetages, enquêtes, pertes et autres conséquences découlant de l'intervention du joueur ; ne pas les exporter sans validation.
 4. **Jeu vidéo solo :** aucun nouveau type d'expédition ou mécanisme de combat n'est ajouté ici ; c'est de l'histoire et du matériau narratif.
 
 Ne pas introduire de ville, route ou côte à des coordonnées improvisées sur la carte canonique. Les Cryptes sont terrestres et leurs anciens robots de garde ne deviennent pas automatiquement des monstres sauvages ou des consciences artificielles.
 
-## 9. Validation recommandée
+## 9. Décision acquise et précisions futures
 
-Trancher **en premier** si l'on garde « La Saison des Meutes » et « Les Voiles noires du large » comme **deux épisodes historiques de la colonisation**. Ils sont faciles à ancrer dans les créatures et les métiers déjà canoniques, sans toucher aux secrets de Vaélore.
+**Le créateur a validé les quatre événements comme faits de l'histoire de Battlecry.** Ils sont conservés séparément, y compris les deux événements naturels et les deux événements d'exploration ou de navigation. Les fusionner ou les retirer demanderait une nouvelle décision.
 
-Ensuite, choisir si « Les Bornes renversées » et « Les Cendres lointaines » sont des **faits historiques** ou simplement des **scènes possibles** dans certaines aventures. Ce second choix détermine combien le lore doit figer la géographie et les catastrophes de l'île.
+Restent ouverts : les dates et durées, les routes et zones effectivement concernées, les noms de témoins, les causes encore inexpliquées, les pertes et toutes les décisions pouvant appartenir à Aldria, Caelan, Valerian ou Elira.
 
-Une proposition n'est **pas** une canonisation.
+**Le présent document décrit les événements validés mais ne garantit pas qu'ils sont déjà fusionnés sur `main` du dépôt privé.** Les trois petits mystères de la section 6 sont toujours de simples possibilités de récit.

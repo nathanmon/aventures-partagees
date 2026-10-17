@@ -57,7 +57,9 @@ La première chronologie de colonisation propose six événements politiques, ma
 
 [Les grands événements de la colonisation (propositions)](evenements/GRANDS_EVENEMENTS_COLONISATION.md).
 
-[Dangers, catastrophes et mystères de Vaélore (propositions)](evenements/DANGERS_MYSTERES_COLONISATION.md).
+**Événements historiques approuvés :** La Saison des Meutes, Les Voiles noires du large, Les Bornes renversées et Les Cendres lointaines. Leurs occurrences sont validées ; les dates, causes incertaines et dénouements restent ouverts.
+
+[Quatre événements validés et mystères secondaires](evenements/DANGERS_MYSTERES_COLONISATION.md).
 
 ## Dossiers de lieux
 
