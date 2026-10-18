@@ -4,7 +4,7 @@ Site : https://nathanmon.github.io/aventures-partagees/gallery.html
 
 Catalogue machine-lisible : https://nathanmon.github.io/aventures-partagees/data/illustrations.json
 
-**Attention :** les images sont d'abord enregistrées dans le manifeste sous l'état `planned`. Seules les entrées `ready` avec un vrai fichier et une URL vérifiée sont utilisables.
+**Attention :** seules les entrées `ready` pointent vers des images réelles et utilisables ; les autres sont des briefs de production. Le premier lot de 10 WebP a été publié, dont **9 activés dans la galerie**, et le portrait de Nara conservé en brouillon pour correction.
 
 ## Stratégie : afficher des images préproduites, ne pas générer en cours de partie
 
@@ -26,7 +26,7 @@ Voir la [stratégie de préproduction](monde/STRATEGIE_PREPRODUCTION_IMAGES.md).
 
 Le [plan des illustrations narratives](monde/PLAN_ILLUSTRATIONS.md) associe maintenant les **héros, PNJ, six ports, époques de Silverdawn, grands jalons et quatre événements historiques validés** à des sujets d'illustrations identifiables.
 
-Le manifeste [`data/illustrations.json`](../data/illustrations.json) contient **89 entrées prévues**, sans fichier image publié à ce stade. Les **17 portraits de PNJ sont déjà prévus au catalogue** ; les vues ou variantes supplémentaires s'y ajouteront lors de leur préparation.
+Le manifeste [`data/illustrations.json`](../data/illustrations.json) contient **89 entrées au total : 9 images réelles disponibles (`ready`) et 80 sujets restant à produire (`planned`)**, après le premier lot d'octobre 2026. Les **17 portraits de PNJ sont déjà prévus au catalogue** ; les vues ou variantes supplémentaires s'y ajouteront lors de leur préparation.
 
 - **P0** : Silverdawn initiale, Aldria, première Crypte vue de l'extérieur, quatre événements validés, premières explorations.
 - **P1** : autres époques de Silverdawn, Caelan/Valerian/Elira, auberge et PNJ, premiers contacts et régions lointaines.
@@ -71,3 +71,8 @@ Les catégories `décor jouable`, `objet consultable` et `interaction courante` 
 - `portrait-aldria` : portrait canonique à exporter après validation.
 
 **Limite technique :** le lien public est consultable, mais son affichage **automatique** dans ChatGPT ne peut pas être garanti par la seule présence d'un Markdown. Tester sur une vraie partie.
+
+
+## Premier lot réellement créé et publié
+
+Neuf images disponibles : `port-silverdawn`, `decor-silverdawn-acces-terrestre`, `decor-silverdawn-rue-principale`, `scene-comptoir-voiles`, `decor-comptoir-voiles-salle-commune`, `objet-carte-murale-auberge`, `objet-carte-rapprochee`, `decor-pont-passage-garde`, `interaction-gardes-passage`. Les **deux cartes sont strictement décoratives, non géographiques** ; les illustrations de la ville ne représentent pas le tout premier débarquement. `portrait-nara` reste `planned` ; son brouillon est stocké dans `assets/roleplay/drafts/` et ne doit pas être affiché comme portrait confirmé.

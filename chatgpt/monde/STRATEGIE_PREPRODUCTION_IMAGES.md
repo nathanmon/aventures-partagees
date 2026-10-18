@@ -69,7 +69,7 @@ Conserver des **références maîtres** pour chaque lieu et personnage validé :
 ## 6. Suivi réel
 
 - **89 sujets prévus** dans le manifeste au moment de cette décision.
-- **0 image réelle validée et publiée** dans ces 89 entrées à cette date.
+- **9 images WebP désormais `ready`**, parmi 89 entrées : le premier lot comprend 10 fichiers binaires envoyés au dépôt, mais **le portrait de Nara reste non validé**. Deux cartes sont des décors illustratifs et **pas des cartes exactes**.
 - **Cap visé : bibliothèque large pré-générée et immédiatement réutilisable**. Ne pas confondre enrichissement du catalogue avec génération ou publication de fichiers.
 
 Voir [plan des illustrations](PLAN_ILLUSTRATIONS.md), [index public](../INDEX_ILLUSTRATIONS.md), [scènes jouables](SCENES_JOUABLES_OBJETS.md) et [galerie](https://nathanmon.github.io/aventures-partagees/gallery.html).

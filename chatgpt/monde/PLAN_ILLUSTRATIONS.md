@@ -1,6 +1,6 @@
 # Plan de production des illustrations narratives — Battlecry / Vaélore
 
-> **Plan d'illustrations pour les aventures ChatGPT**, pas une spécification d'assets du jeu vidéo. Toutes les entrées publiques du manifeste sont **prévisionnelles** (`status: planned`, `file: null`) jusqu'à ce qu'une image ait été réellement générée, validée, déposée et vérifiée. Aucune image n'est créée par la seule rédaction de ce document.
+> **Plan d'illustrations pour les aventures ChatGPT**, pas une spécification d'assets du jeu vidéo. Le manifeste distingue les images réellement publiées (`ready`, avec un fichier), des sujets prévus (`planned`, `file: null`). **Premier lot : 9 images actives et un portrait de Nara encore brouillon.** Aucune image n'est créée par la seule rédaction de ce document.
 
 ## Stratégie de production : images déjà prêtes avant les aventures
 
