@@ -15,6 +15,13 @@
 
 ## Illustrations
 
+- [x] Documenter les leçons techniques du premier lot : transfert WebP binaire, vérification Git, édition du manifeste, publication Pages.
+- [x] Consigner les limites visuelles : portrait Nara non conforme, cartes décoratives, pont non canonique, Silverdawn trop avancée pour les Amarres.
+- [ ] Refaire le portrait maître de Nara à partir de sa fiche complète avant de l'utiliser dans les aventures.
+- [ ] Tester directement les URL d'images et l'affichage dans la galerie après le déploiement.
+- [ ] Fixer des références maîtresses de décor et de personnages pour les prochaines variantes.
+
+
 - [x] Fixer la stratégie « grande bibliothèque d'images **préproduites** », plutôt que génération automatique pendant l'aventure.
 - [x] Clarifier : affichage immédiat des images `ready`, aucune génération spontanée pendant la session, sauf demande explicite du joueur.
 - [ ] Produire, valider et publier progressivement **l'ensemble des 89 sujets prévus** (P0 puis P1 puis P2), et les variantes utiles.

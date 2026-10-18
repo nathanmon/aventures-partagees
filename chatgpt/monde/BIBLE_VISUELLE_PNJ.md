@@ -60,6 +60,10 @@
 - **Invariant** : moustache rousse grise + balance à deux plateaux + manteau lie-de-vin.
 
 ### Nara — tenancière du Comptoir des Voiles
+
+**Attention production (premier lot)** : le portrait `assets/roleplay/drafts/portrait-nara-v1.webp` a été généré, mais n'est **pas validé** ; il paraît trop jeune et néglige plusieurs marqueurs (gris des cheveux, tablier beige, trousseau de trois clés). **Ne pas le prendre comme référence**, ni répliquer ce visage dans les nouvelles scènes. Pour la correction, suivre les détails précis ci-dessous ; voir aussi le [retour d'expérience du premier lot](RETOUR_EXPERIENCE_LOT_01.md).
+
+
 - **Présence** : Charpentes, après ouverture du Comptoir ; humaine, femme d'apparence 47–57 ans.
 - **Visage et silhouette** : femme robuste de taille moyenne, joues rondes, yeux **gris clair**, sourire asymétrique et fossettes discrètes, nez épaté ; peau au teint chaud. Cheveux **auburn foncé piqués de gris**, attachés sous un foulard **bleu indigo** noué derrière la nuque.
 - **Tenue/objets** : chemise prune brunie, tablier **lin beige**, gros trousseau de **trois clés de fer différentes** à la taille, torchon propre, casserole à long manche.

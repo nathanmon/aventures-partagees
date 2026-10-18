@@ -12,3 +12,8 @@ Les fichiers image ont été vérifiés au transfert par leur **empreinte de blo
 **Production :** PNG générés puis optimisation WebP en 1360 px de largeur maximum (portrait Nara à sa taille d'origine), qualité 74 ; originaux conservés dans les fichiers de la conversation, pas dans le repo du jeu vidéo.
 
 **Publication :** `planned` signifie image non utilisable dans la galerie ; `ready` exige un fichier réel et un déploiement public vérifié. Une image particulière de session ou confidentielle ne doit pas être publiée ici sans vérification des spoilers et accord de publication.
+
+
+## Reproduire le premier transfert de fichiers réels
+
+La [fiche de retour d'expérience](../../chatgpt/monde/RETOUR_EXPERIENCE_LOT_01.md) détaille le chemin **image générée → WebP → blob Git base64 → arbre/commit → vérification SHA → entrée `ready` → publication Pages** et les contrôles artistiques. L'envoi binaire a fonctionné avec le connecteur GitHub. `ready` confirme la disponibilité du fichier, mais ne constitue pas une approbation artistique définitive du créateur.

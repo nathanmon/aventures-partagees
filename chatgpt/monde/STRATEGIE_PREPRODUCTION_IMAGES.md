@@ -66,6 +66,12 @@ Conserver des **références maîtres** pour chaque lieu et personnage validé :
 
 **Le récit reste libre, même si une bibliothèque existe** : les images disponibles ne dictent ni les destinations, ni les relations, ni les paroles, ni les résolutions. L'objectif de la préproduction est de diminuer le délai d'attente, pas de forcer une intrigue.
 
+## Retour d'expérience vérifié du premier lot
+
+Le [retour d'expérience des dix premières images](RETOUR_EXPERIENCE_LOT_01.md) précise la **méthode d'envoi WebP/base64/Git SHA**, les vérifications après publication, le défaut du portrait de **Nara**, la **géographie décorative des cartes**, le risque d'anachronisme (Silverdawn déjà bâtie) et la nécessité de conserver des **images maîtresses** de lieux et de personnages pour toutes les variantes.
+
+Le transfert binaire vers GitHub est **déjà fonctionnel** ; la prochaine étape n'est pas de démontrer cette possibilité, mais d'industrialiser les lots et de vérifier leur qualité et leur affichage réel.
+
 ## 6. Suivi réel
 
 - **89 sujets prévus** dans le manifeste au moment de cette décision.

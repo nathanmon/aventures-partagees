@@ -73,6 +73,10 @@ Les catégories `décor jouable`, `objet consultable` et `interaction courante` 
 **Limite technique :** le lien public est consultable, mais son affichage **automatique** dans ChatGPT ne peut pas être garanti par la seule présence d'un Markdown. Tester sur une vraie partie.
 
 
+## Méthode vérifiée et réserves du premier lot
+
+Le [retour d'expérience de production](monde/RETOUR_EXPERIENCE_LOT_01.md) explique comment les dix fichiers ont été envoyés en binaire sur GitHub, comment choisir les illustrations `ready`, et pourquoi **Nara doit être redessinée**. Les **cartes sont décoratives** ; la **porte terrestre et le pont gardé ne prouvent pas l'existence d'une structure canonique**. L'approbation technique d'un fichier ne constitue pas nécessairement une validation artistique définitive.
+
 ## Premier lot réellement créé et publié
 
 Neuf images disponibles : `port-silverdawn`, `decor-silverdawn-acces-terrestre`, `decor-silverdawn-rue-principale`, `scene-comptoir-voiles`, `decor-comptoir-voiles-salle-commune`, `objet-carte-murale-auberge`, `objet-carte-rapprochee`, `decor-pont-passage-garde`, `interaction-gardes-passage`. Les **deux cartes sont strictement décoratives, non géographiques** ; les illustrations de la ville ne représentent pas le tout premier débarquement. `portrait-nara` reste `planned` ; son brouillon est stocké dans `assets/roleplay/drafts/` et ne doit pas être affiché comme portrait confirmé.

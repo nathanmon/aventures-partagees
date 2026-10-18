@@ -193,6 +193,10 @@ Le catalogue distingue désormais `décor jouable`, `objet consultable` et `inte
 
 La priorité P0 va aux passages courants, à l'auberge, aux cartes et aux gardes. Le MJ illustre ces moments seulement quand ils sont narrativement utiles. **Ne pas inventer de pont canonique à Silverdawn**, de porte fortifiée dès l'arrivée, de carte géographique exacte ou d'acte du personnage joueur non joué. Le texte d'une carte doit venir d'une source fiable indépendante.
 
+## Enseignements du premier lot réellement publié
+
+Se référer au [retour d'expérience technique et graphique](RETOUR_EXPERIENCE_LOT_01.md) avant un nouveau lot : **portrait Nara à reprendre**, cartes uniquement **décoratives**, cohérence des **plans de l'auberge**, prudence avec la **porte et le pont non canoniques**, et scènes de Silverdawn avec tours et palissades **non adaptées au tout premier débarquement**. Les futurs portraits maîtres doivent suivre leurs fiches **trait pour trait**, et les gros plans d'un même objet doivent de préférence réutiliser ou recadrer son original.
+
 ## 8. Vérifications indispensables avant une illustration
 
 - **Qui voit cette scène ?** Le personnage-joueur connaît-il ces acteurs et objets ?
