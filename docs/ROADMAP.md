@@ -2,6 +2,8 @@
 
 ## Portail
 
+- [x] Afficher les 17 personnages secondaires proposés sur la page Personnages, avec métier, ville, liens et références de portraits à préparer.
+
 - [x] Créer le dépôt public `nathanmon/aventures-partagees`.
 - [x] Publier une première structure GitHub Pages multi-univers.
 - [x] Publier les descriptions Battlecry accessibles aux joueurs.
