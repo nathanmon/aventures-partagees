@@ -13,6 +13,11 @@
 
 ## Illustrations
 
+- [x] Ajouter une bibliothèque de scènes ordinaires : décors jouables, objets consultables, interactions courantes (16 sujets `planned`).
+- [x] Documenter les vues rapprochées, conditions d'affichage et limites des cartes générées.
+- [ ] Produire et valider les scènes P0 d'auberge, de carte et de gardes, lorsque leurs décors de référence sont fixés.
+
+
 - [x] Définir un plan de production reliant personnages, lieux, événements et époques aux illustrations.
 - [x] Enrichir le catalogue prévisionnel avec les quatre événements validés, les héros humains et les grandes étapes explorables.
 - [x] Définir des scènes de **rencontre**, des **moments marquants** et des **scènes émouvantes** avec leurs conditions d'affichage.

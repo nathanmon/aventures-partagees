@@ -179,6 +179,14 @@ Cette fiche donne un **brief réutilisable** ; elle ne garantit ni que l'image e
 
 Le manifeste est utilisé par la [galerie publique](https://nathanmon.github.io/aventures-partagees/gallery.html) : l'état `planned` y affiche seulement « Illustration à préparer ». Ajouter un ID **n'affiche pas automatiquement une image dans ChatGPT**. Les sources du projet ChatGPT ne sont pas synchronisées automatiquement par un commit GitHub.
 
+## Scènes ordinaires, exploration, objets et dialogues
+
+Le [dossier des scènes jouables et objets consultables](SCENES_JOUABLES_OBJETS.md) prépare **16 images** permettant d'illustrer le déroulement ordinaire d'une aventure : accès d'une ville, rue, pont gardé, auberge bruyante, carte murale et examen rapproché, registres, gardes en discussion, salle de garde, chambre et arrière-salle.
+
+Le catalogue distingue désormais `décor jouable`, `objet consultable` et `interaction courante`. Pour un lieu ou un objet, prévoir si utile **vue d'ambiance → vue de détail → scène d'interaction**, à la même époque et avec le même décor.
+
+La priorité P0 va aux passages courants, à l'auberge, aux cartes et aux gardes. Le MJ illustre ces moments seulement quand ils sont narrativement utiles. **Ne pas inventer de pont canonique à Silverdawn**, de porte fortifiée dès l'arrivée, de carte géographique exacte ou d'acte du personnage joueur non joué. Le texte d'une carte doit venir d'une source fiable indépendante.
+
 ## 8. Vérifications indispensables avant une illustration
 
 - **Qui voit cette scène ?** Le personnage-joueur connaît-il ces acteurs et objets ?

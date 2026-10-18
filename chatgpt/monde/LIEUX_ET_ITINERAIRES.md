@@ -134,3 +134,10 @@ Les architectures, coordonnées, scènes et maisons ajoutées pour l'ambiance so
 Le [plan d'illustrations](PLAN_ILLUSTRATIONS.md) répertorie les six ports déjà prévus (`port-silverdawn`, `port-gladenthorn`, `port-ironpeak`, `port-krag-thar`, `port-blackpit`, `port-nightshrine`), les **quatre périodes de Silverdawn**, les environs de la première Crypte, l'approche de Highford et les paysages de Crownfall et Sunkenmere.
 
 **Chaque ville peut posséder plusieurs illustrations d'époque** si le décor a réellement changé. Ne pas décrire la place et les remparts comme achevés le jour du premier débarquement. L'image de la région de Sunkenmere ou de Crownfall peut exister **sans montrer directement** le Kraken ou le Dragon.
+
+
+## Espaces quotidiens et vues à illustrer
+
+La [bibliothèque des scènes jouables](SCENES_JOUABLES_OBJETS.md) distingue les lieux que le personnage peut parcourir et leurs vues : **rue principale, accès terrestre, auberge, salle commune, chambre, arrière-salle, poste de garde, pont et ruelle** ; elle prévoit aussi les **objets consultables** (carte, panneau, registre) et les contrôles ou dialogues ordinaires.
+
+Ces lieux ne sont **pas des bâtiments ou des coordonnées canoniques ajoutés à Vaélore**. Un pont ou une porte de ville ne peut être montré qu'une fois leur existence établie dans la session. À Silverdawn, les premiers débarquements ne comportent pas par défaut remparts et portes en pierre. Conserver le décor d'une même pièce entre ses vues panoramiques, rapprochées et les scènes de dialogue ; ajuster son état seulement si l'époque ou les événements joués le justifient.

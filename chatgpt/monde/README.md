@@ -8,6 +8,10 @@ Le [plan de production des illustrations](PLAN_ILLUSTRATIONS.md) relie **personn
 
 **Dès qu'une fiche est enrichie par un nouveau personnage, un lieu ou un événement marquant, vérifier aussi si sa fiche visuelle doit évoluer.** Le récit passe avant la production d'image, et le dépôt Battlecry reste inchangé.
 
+## Exploration ordinaire et objets
+
+La [bibliothèque des scènes jouables](SCENES_JOUABLES_OBJETS.md) anticipe les **auberges, ponts, portes, rues, objets examinables et conversations avec les gardes**. Elle permet aux aventures de montrer le quotidien, avec des vues d'ensemble et des gros plans, **sans inventorier comme lieux canoniques** les ponts ou bâtiments inventés au fil d'une session.
+
 ## Six domaines documentés
 
 | Dossier | Ce qu'il apporte au MJ |

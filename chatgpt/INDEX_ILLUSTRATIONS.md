@@ -18,7 +18,7 @@ Catalogue machine-lisible : https://nathanmon.github.io/aventures-partagees/data
 
 Le [plan des illustrations narratives](monde/PLAN_ILLUSTRATIONS.md) associe maintenant les **héros, PNJ, six ports, époques de Silverdawn, grands jalons et quatre événements historiques validés** à des sujets d'illustrations identifiables.
 
-Le manifeste [`data/illustrations.json`](../data/illustrations.json) contient **73 entrées prévues**, sans fichier image publié à ce stade. Les sujets supplémentaires à produire plus tard, dont des portraits de PNJ des autres ports, sont décrits dans le plan sans remplir inutilement la galerie.
+Le manifeste [`data/illustrations.json`](../data/illustrations.json) contient **89 entrées prévues**, sans fichier image publié à ce stade. Les sujets supplémentaires à produire plus tard, dont des portraits de PNJ des autres ports, sont décrits dans le plan sans remplir inutilement la galerie.
 
 - **P0** : Silverdawn initiale, Aldria, première Crypte vue de l'extérieur, quatre événements validés, premières explorations.
 - **P1** : autres époques de Silverdawn, Caelan/Valerian/Elira, auberge et PNJ, premiers contacts et régions lointaines.
@@ -43,6 +43,12 @@ Le MJ utilise ces images uniquement **si les deux personnages se trouvent réell
 La [bible visuelle des personnages secondaires](monde/BIBLE_VISUELLE_PNJ.md) contient leurs visages, silhouettes, costumes, accessoires, situations personnelles proposées et liens. L'[atlas des scènes PNJ](monde/ATLAS_SCENES_PNJ.md) précise leurs rencontres, duos et moments émouvants.
 
 Le catalogue prévoit **17 portraits de PNJ** (dont Mirel et Nara existants) et **sept nouveaux duos de travail ou de relation**. Ces scènes sont facultatives et n'imposent aucun état amoureux ou familial.
+
+## Scènes ordinaires jouables et objets
+
+Le [plan des scènes de jeu récurrentes](monde/SCENES_JOUABLES_OBJETS.md) ajoute **16 sujets prévisionnels** : neuf P0 (ville, rue, pont éventuel, auberge, carte murale, gros plan, échange avec gardes, entrée dans l'auberge, examen de carte) et sept P1 (registre, panneau, salle de garde, chambre, arrière-salle, ruelle, contrôle).
+
+Les catégories `décor jouable`, `objet consultable` et `interaction courante` sont filtrables dans la galerie par **type, lieu et période**, en plus du peuple et du statut. Un paysage, une carte ou un contrôle ne s'affiche que si sa présence et son contenu sont cohérents avec la session. **Une carte fantaisiste générée ne définit pas la géographie canonique.**
 
 ## Première bibliothèque prévue
 
