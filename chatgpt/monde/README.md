@@ -2,6 +2,10 @@
 
 **Version de travail complète pour le maître du jeu.** Ces dossiers concernent les **aventures ChatGPT** dans l'univers de Battlecry. Le dépôt privé Battlecry est **consulté comme source canonique**, jamais modifié par ce travail.
 
+## Stratégie de préproduction des images
+
+Le [plan de production prioritaire](STRATEGIE_PREPRODUCTION_IMAGES.md) fixe l'objectif : **un maximum d'images réalisées avant les aventures**, prêtes à s'afficher sans attente pendant les parties. Les illustrations peuvent être nombreuses et avoir des variantes. **L'absence d'un visuel ne déclenche pas de génération pendant la narration** ; seule une demande explicite du joueur permet une création ponctuelle, avec son délai. Les scènes conditionnelles peuvent être créées à l'avance et simplement masquées jusqu'à la bonne situation.
+
 ## Illustrations préparées avec le lore
 
 Le [plan de production des illustrations](PLAN_ILLUSTRATIONS.md) relie **personnages, lieux et événements** aux visuels à produire : sujet, période, apparence, risques de spoilers, priorité et continuité. Les premières entrées sont présentes dans le [manifeste public](../../data/illustrations.json), toutes marquées `planned` tant qu'aucune image n'est effectivement publiée.

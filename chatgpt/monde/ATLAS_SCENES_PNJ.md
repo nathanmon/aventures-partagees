@@ -2,6 +2,12 @@
 
 > **Propositions de scènes RP pour Aventures partagées, non canoniques dans le jeu vidéo.** Pour produire les images, utiliser les apparences fixes de la [bible des 17 PNJ](BIBLE_VISUELLE_PNJ.md). Une scène de conflit, d'entraide, de romance ou de réconciliation n'a lieu que si elle est narrativement justifiée ; sa présence dans le catalogue n'en fait pas un événement historique.
 
+## Préproduire les scènes, n'afficher qu'à bon escient
+
+Le but est de **fabriquer les portraits et les scènes de PNJ en amont**, autant que possible. Les scènes conditionnelles peuvent être déjà prêtes et **restent invisibles** si la relation ou l'événement ne s'est pas produit. Pendant une partie, le MJ n'improvise pas de génération : il affiche une image disponible ou continue sans image. Le joueur peut toutefois demander expressément une nouvelle illustration et en attendre la génération.
+
+Voir la [stratégie de préproduction](STRATEGIE_PREPRODUCTION_IMAGES.md).
+
 ## Règles préalables
 
 Pour chaque image, établir le **lieu**, la **période**, les **personnages réellement présents**, leur **relation à cet instant**, un **geste ou objet explicatif**, les **faits déjà survenus**, et **ce que l'image ne doit pas décider**.

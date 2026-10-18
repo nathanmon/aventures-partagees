@@ -15,6 +15,12 @@
 
 ## Illustrations
 
+- [x] Fixer la stratégie « grande bibliothèque d'images **préproduites** », plutôt que génération automatique pendant l'aventure.
+- [x] Clarifier : affichage immédiat des images `ready`, aucune génération spontanée pendant la session, sauf demande explicite du joueur.
+- [ ] Produire, valider et publier progressivement **l'ensemble des 89 sujets prévus** (P0 puis P1 puis P2), et les variantes utiles.
+- [ ] Constituer une première bibliothèque effectivement `ready` pour jouer sans temps d'attente.
+
+
 - [x] Ajouter une bibliothèque de scènes ordinaires : décors jouables, objets consultables, interactions courantes (16 sujets `planned`).
 - [x] Documenter les vues rapprochées, conditions d'affichage et limites des cartes générées.
 - [ ] Produire et valider les scènes P0 d'auberge, de carte et de gardes, lorsque leurs décors de référence sont fixés.

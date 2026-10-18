@@ -2,9 +2,15 @@
 
 > **Plan d'illustrations pour les aventures ChatGPT**, pas une spécification d'assets du jeu vidéo. Toutes les entrées publiques du manifeste sont **prévisionnelles** (`status: planned`, `file: null`) jusqu'à ce qu'une image ait été réellement générée, validée, déposée et vérifiée. Aucune image n'est créée par la seule rédaction de ce document.
 
+## Stratégie de production : images déjà prêtes avant les aventures
+
+**Instruction prioritaire du créateur : pré-générer la plus grande bibliothèque pertinente possible** et en **afficher les images existantes pendant les sessions**, sans attente de génération. Le [protocole de préproduction](STRATEGIE_PREPRODUCTION_IMAGES.md) est la référence : les **89 intentions actuellement cataloguées ne doivent pas être ramenées à 15**, et P0/P1/P2 désignent seulement l'ordre de fabrication. Des variantes utiles peuvent porter le catalogue au-delà de 89.
+
+En jeu, **ne jamais générer spontanément une image manquante**. Utiliser une illustration `ready` compatible ou poursuivre le récit sans illustration. **Seulement si le joueur demande explicitement une image absente**, la générer en acceptant le délai. Les scènes émotionnelles conditionnelles peuvent être **pré-générées** avec des acteurs anonymes, puis affichées seulement si les faits joués le permettent.
+
 ## 1. Principe : chaque élément narratif important possède une intention visuelle
 
-Dès la préparation d'un **personnage récurrent**, d'un **lieu important** ou d'un **événement validé**, prévoir son illustration sans forcément la produire immédiatement. Une même référence visuelle peut servir à plusieurs scènes et parties ; elle ne doit ni décider à la place du joueur ni révéler une information encore inconnue.
+Dès la préparation d'un **personnage récurrent**, d'un **lieu important** ou d'un **événement validé**, prévoir puis **produire en amont** son illustration dans la bibliothèque, par vagues de production. Une même référence visuelle peut servir à plusieurs scènes et parties ; elle ne doit ni décider à la place du joueur ni révéler une information encore inconnue.
 
 | Élément écrit | Préparation graphique minimale | Réutilisation |
 | --- | --- | --- |
@@ -12,13 +18,13 @@ Dès la préparation d'un **personnage récurrent**, d'un **lieu important** ou 
 | **Lieu majeur** | Vue d'ensemble, fonction, peuple, architecture, état à chaque époque utile, éléments permanents | Retour régulier dans le même lieu |
 | **Événement historique fixe** | **Scène du déclenchement** : sujet, acteurs, cadre et danger, **sans issue préécrite** | Plusieurs campagnes vivant le même événement, avec conséquences différentes |
 | **Rencontre / découverte narrative** | Vue publique ou extérieure **avant découverte**, illustrations supplémentaires **après expérience du personnage** | Progression sans spoiler |
-| **Événement improvisé** | Généralement utiliser d'abord lieux et personnages déjà illustrés ; générer une nouvelle scène si moment véritablement marquant | Le récit n'est pas retardé par l'absence d'une image |
+| **Événement improvisé** | Généralement utiliser d'abord lieux et personnages déjà illustrés ; ne générer une nouvelle scène en cours de partie que sur **demande explicite du joueur** | Le récit n'est pas retardé par l'absence d'une image |
 
 ### États de production
 
 **`planned`** = sujet et brief prêts, **aucun fichier image**. **`ready`** = image réelle, approuvée, fichier sous `assets/roleplay/` et URL publique vérifiée. Ne pas annoncer une illustration prête sur la base d'un descriptif, d'un simple chemin ou d'une image dans le dépôt privé Battlecry.
 
-**Priorités internes de production :** P0 = utile pour débuter les parties et les quatre événements approuvés ; P1 = réutilisable ensuite dans les scènes récurrentes ; P2 = extension future selon les aventures réellement jouées. `priority`, `period` et `source` sont des métadonnées **éditoriales facultatives** du manifeste ; la galerie actuelle n'en fait pas des filtres.
+**Priorités internes de production :** P0 = **premier lot**, utile immédiatement ; P1 = **deuxième lot**, scènes récurrentes ; P2 = **troisième lot**, compléments et variations. **Tous les sujets sont destinés à la préproduction**, selon les ressources disponibles. `priority`, `period` et `source` sont des métadonnées **éditoriales facultatives** du manifeste ; la galerie actuelle n'en fait pas des filtres.
 
 ## 2. Direction artistique à ne pas perdre
 
@@ -75,7 +81,7 @@ Le manifeste source est [`data/illustrations.json`](../../data/illustrations.jso
 | `scene-silverdawn-convois`, `scene-silverdawn-veilles` | Silverdawn plus développée | Deux étapes distinctes, **pas** deux nouvelles villes |
 | `port-gladenthorn`, `port-ironpeak`, `port-krag-thar`, `port-blackpit`, `port-nightshrine` | Cinq autres ports | Réutilisables lors des voyages et rencontres entre peuples |
 
-Les premiers **gardiens de Crypte**, la créature **Kraken** elle-même, le **Dragon** lui-même et les figures des révélations avancées mériteraient des illustrations fortes lors d'une **rencontre réellement vécue**, sans charger leur secret en avance dans un catalogue public. Le MJ peut préparer un **brief privé au moment de la rencontre**, puis générer, montrer ou conserver la scène selon ce que le personnage a observé.
+Les premiers **gardiens de Crypte**, le **Kraken** et le **Dragon** pourront disposer d'images préproduites **séparément du catalogue public tant que leur divulgation n'est pas autorisée**. Leur existence dans une bibliothèque ne justifie jamais de les montrer au joueur avant une découverte crédible. Ne pas publier de spoilers dans un dépôt public.
 
 ## Scènes de rencontre, moments marquants et scènes émouvantes
 
@@ -89,7 +95,7 @@ En plus des portraits, lieux et déclencheurs d'événements, la bibliothèque p
 
 Le [guide des relations et de leurs images](RELATIONS_ET_ILLUSTRATIONS.md) distingue les **liens canoniques préexistants** entre héros, les relations de PNJ inventées pour Aventures partagées et les **changements émergents** pendant les sessions. Il propose **10 entrées** dans le manifeste `planned` : anciens compagnons, couple déjà marié, fratries, amitiés, désaccords professionnels, confiance naissante et réconciliation conditionnelle.
 
-**Une image relationnelle n'impose jamais un sentiment ou une décision au personnage joueur**. Une scène romantique, une dispute, une rupture ou une réconciliation **impliquant ce personnage** doit être illustrée **seulement après sa participation réelle**. La présence des personnages doit respecter leur date d'arrivée : Elira ne se trouve pas automatiquement avec Caelan à Silverdawn avant son propre débarquement.
+**Une image relationnelle n'impose jamais un sentiment ou une décision au personnage joueur**. On peut **préproduire** les scènes générales de romance, de dispute, de rupture ou de réconciliation avec figurants anonymes ; une scène **impliquant précisément le personnage-joueur** ne doit être affichée qu'après sa participation réelle. La présence des personnages doit respecter leur date d'arrivée : Elira ne se trouve pas automatiquement avec Caelan à Silverdawn avant son propre débarquement.
 
 Les relations canoniques de `HERO_RELATIONSHIPS_DESIGN.md` restent la référence du jeu vidéo ; elles n'établissent **aucune nouvelle scène historiquement vécue** à Vaélore.
 
@@ -99,7 +105,7 @@ Les **17 PNJ inventés** disposent maintenant d'une [bible visuelle détaillée]
 
 **15 portraits supplémentaires** ont été ajoutés au manifeste (`portrait-*`) pour compléter ceux de Mirel et Nara. **Sept scènes de duo** ont également été prévues : Serdan/Berric, Yselle/Berric, Lethwen/Eryn, Orvik/Brena, Brugha/Drezh, Fizzka/Grinn, Sareth/Vorl. Chaque entrée reste `planned`.
 
-La situation personnelle aide à créer des images cohérentes mais **n'établit aucun mariage, enfant, décès ou roman sentimental comme canon commun**. Une relation affective ne sera illustrée qu'après s'être réellement produite en session.
+La situation personnelle aide à créer des images cohérentes mais **n'établit aucun mariage, enfant, décès ou roman sentimental comme canon commun**. Une relation affective **peut être illustrée d'avance de façon générique**, mais l'image ne doit être **affichée** que si la situation se produit réellement en session.
 
 ## 4. Portraits secondaires à prévoir sans encombrer la galerie
 
@@ -172,10 +178,10 @@ Cette fiche donne un **brief réutilisable** ; elle ne garantit ni que l'image e
 
 1. **Définir le contenu** : personne, lieu ou événement ; statut canon / retenu RP / proposition ; période et informations que le personnage peut légitimement connaître.
 2. **Prévoir les visuels** : ID stable, brief, références visuelles, éventuelles variantes d'époque, priorité, interdits et niveau de révélation.
-3. **Produire par petits lots** : commencer par les sujets réutilisés souvent, pas par des scènes spectaculaires mais très rares.
+3. **Préproduire par lots successifs avant les aventures** : commencer par les sujets les plus réutilisés, puis continuer vers les P1 et P2 **sans s'arrêter à une bibliothèque de 15 images**. Ajouter les variantes fréquentes quand elles améliorent la couverture.
 4. **Valider** : confirmer l'identité des héros, l'architecture, le peuple, la période, l'absence de spoilers et la continuité des costumes et détails.
 5. **Publier** : placer une image WebP/PNG sous `assets/roleplay/`, vérifier l'accès sans connexion et passer son entrée du manifeste en `ready` avec un chemin **réel**.
-6. **Jouer** : le MJ préfère un visuel `ready` compatible avec la période et les connaissances ; sinon il peut créer une illustration de scène seulement lorsque l'instant est significatif, **sans bloquer la narration**.
+6. **Jouer** : le MJ **affiche les images `ready` déjà produites** et compatibles ; s'il manque une image, il continue l'histoire sans génération. **Seule une demande explicite du joueur** déclenche une génération en cours de partie, avec son délai.
 
 Le manifeste est utilisé par la [galerie publique](https://nathanmon.github.io/aventures-partagees/gallery.html) : l'état `planned` y affiche seulement « Illustration à préparer ». Ajouter un ID **n'affiche pas automatiquement une image dans ChatGPT**. Les sources du projet ChatGPT ne sont pas synchronisées automatiquement par un commit GitHub.
 

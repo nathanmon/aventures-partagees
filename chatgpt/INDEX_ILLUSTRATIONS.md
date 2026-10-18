@@ -6,19 +6,27 @@ Catalogue machine-lisible : https://nathanmon.github.io/aventures-partagees/data
 
 **Attention :** les images sont d'abord enregistrées dans le manifeste sous l'état `planned`. Seules les entrées `ready` avec un vrai fichier et une URL vérifiée sont utilisables.
 
+## Stratégie : afficher des images préproduites, ne pas générer en cours de partie
+
+**La bibliothèque doit être large et générée à l'avance**, pas réduite à une quinzaine d'illustrations. Les 89 entrées sont des **sujets destinés à la production**, avec extension possible par variantes. Les priorités P0/P1/P2 servent à **ordonner la fabrication**, pas à éliminer les sujets.
+
+**Pendant les sessions :** sélectionner et montrer une image `ready` compatible, sans délai. Si elle manque, narrer sans lancer de génération. **Uniquement sur demande explicite du joueur**, créer une image supplémentaire avec le délai associé. Les scènes conditionnelles peuvent être **produites à l'avance** mais ne sont montrées que lorsque les faits de la partie les justifient.
+
+Voir la [stratégie de préproduction](monde/STRATEGIE_PREPRODUCTION_IMAGES.md).
+
 ## Utilisation narrative
 
 1. Identifier le lieu, le peuple, la période et le niveau de découverte du personnage-joueur.
 2. Chercher une image `ready` ayant `spoilers: public` et correspondant à ces contraintes.
 3. Privilégier le visuel validé déjà existant ; une URL publique directe peut être insérée dans la réponse si le client le prend en charge.
 4. Ne jamais improviser un chemin ni annoncer l'affichage réussi avant vérification.
-5. La narration avance sans attendre un téléchargement, un appel réseau ou une génération d'image.
+5. La narration avance sans attente : en absence d'image `ready`, **aucune génération automatique** ; seule une demande explicite du joueur peut déclencher une nouvelle image.
 
 ## Plan de production relié au lore
 
 Le [plan des illustrations narratives](monde/PLAN_ILLUSTRATIONS.md) associe maintenant les **héros, PNJ, six ports, époques de Silverdawn, grands jalons et quatre événements historiques validés** à des sujets d'illustrations identifiables.
 
-Le manifeste [`data/illustrations.json`](../data/illustrations.json) contient **89 entrées prévues**, sans fichier image publié à ce stade. Les sujets supplémentaires à produire plus tard, dont des portraits de PNJ des autres ports, sont décrits dans le plan sans remplir inutilement la galerie.
+Le manifeste [`data/illustrations.json`](../data/illustrations.json) contient **89 entrées prévues**, sans fichier image publié à ce stade. Les **17 portraits de PNJ sont déjà prévus au catalogue** ; les vues ou variantes supplémentaires s'y ajouteront lors de leur préparation.
 
 - **P0** : Silverdawn initiale, Aldria, première Crypte vue de l'extérieur, quatre événements validés, premières explorations.
 - **P1** : autres époques de Silverdawn, Caelan/Valerian/Elira, auberge et PNJ, premiers contacts et régions lointaines.

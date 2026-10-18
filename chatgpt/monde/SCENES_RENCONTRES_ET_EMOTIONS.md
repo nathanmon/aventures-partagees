@@ -6,10 +6,12 @@
 
 Les portraits et paysages installent une identité visuelle ; les **scènes entre personnages** font vivre les relations, les décisions et les conséquences. Il faut donc préparer en plus des **rencontres**, des **moments marquants** et des **moments émouvants**, en lien avec l'époque, le lieu, les acteurs et les aventures déjà racontées.
 
+**La production se fait avant les aventures.** Les scènes de rencontre, d'émotion et d'événement peuvent être pré-générées avec des figurants ou des PNJ déjà établis ; leur **affichage** reste conditionné à ce que vivent les joueurs. Un manque d'image ne déclenche aucune génération automatique en partie, sauf demande explicite du joueur. Voir la [stratégie de préproduction](STRATEGIE_PREPRODUCTION_IMAGES.md).
+
 **Trois niveaux de réutilisation :**
 - **Image d'ambiance réutilisable** : montre la situation sans fixer l'identité du joueur ni son action, et peut servir dans plusieurs sessions.
 - **Image conditionnelle** : ne doit apparaître qu'après un fait **réellement vécu** (retour de survivants, retrouvailles, départ choisi, blessure).
-- **Image unique de conséquence** : créée pendant la partie seulement si son issue précise est établie ; aucun résultat historique n'est écrit d'avance.
+- **Image unique de conséquence** : idéalement **préproduite sous une forme réutilisable** ; si l'issue exacte exige une image spécifique au joueur, ne la créer en cours de partie **que sur demande explicite** ; aucun résultat historique n'est écrit d'avance.
 
 **Statuts :** `P0` = priorité lors des premières sessions ; `P1` = scènes fréquentes selon les époques ; `P2` = besoins plus ponctuels. Tous les ID dans le catalogue restent `planned` et `file: null` jusqu'à production et validation.
 

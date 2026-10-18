@@ -67,7 +67,7 @@ Les PNJ nommés (Mirel, Nara, etc.) réutilisent la [bible des 17 PNJ](BIBLE_VIS
 - `location` vague ou « selon la session » **n'ajoute aucune géographie canonique**. Un pont, une porte de ville, une salle de garde ou une carte au mur ne sont pas déclarés existants à Silverdawn par défaut.
 - Ne montrer que les informations **connues du personnage** ; ne pas inclure d'indices privés dans le nom de fichier, le texte alternatif, le JSON ou les prompts publiés.
 - Marquer `ready` seulement après production, validation et vérification d'un fichier public sous `assets/roleplay/`.
-- **Ne pas interrompre l'aventure pour chaque objet**. Illustrer spontanément les scènes ordinaires lorsque le cadrage apporte de l'information ou une immersion réelle, en réutilisant les vues disponibles.
+- **Produire cette bibliothèque d'avance et sans délai de jeu**. Pendant la partie, afficher spontanément les images `ready` compatibles ; si elles n'existent pas, poursuivre la narration **sans création automatique**, sauf demande explicite du joueur. Voir la [stratégie de préproduction](STRATEGIE_PREPRODUCTION_IMAGES.md).
 
 ## Références
 
