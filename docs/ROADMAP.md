@@ -2,6 +2,8 @@
 
 ## Portail
 
+- [x] Ajouter les filtres de la galerie par type de scène, lieu, peuple, période et statut.
+
 - [x] Afficher les 17 personnages secondaires proposés sur la page Personnages, avec métier, ville, liens et références de portraits à préparer.
 
 - [x] Créer le dépôt public `nathanmon/aventures-partagees`.
