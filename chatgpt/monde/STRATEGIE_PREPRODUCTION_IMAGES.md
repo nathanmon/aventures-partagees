@@ -2,6 +2,16 @@
 
 > **Décision du créateur pour Aventures partagées : produire un maximum d'images AVANT les parties.** L'objectif est de raconter et **afficher immédiatement** une image disponible, sans dépendre du temps de génération pendant l'aventure. Cette règle remplace les conseils plus anciens recommandant de réduire le catalogue à une quinzaine d'images ou de fabriquer spontanément de nouvelles scènes en cours de jeu.
 
+## Format des nouvelles illustrations — décision du 19 octobre 2026
+
+- **JPEG (.jpg) par défaut** pour toute **nouvelle** illustration narrative (paysage, scène, personnage, objet sans transparence). Créer ou exporter directement en JPEG optimisé, sans imposer une étape WebP intermédiaire.
+- **Dimensions cibles** : 1280 × 720 pour les scènes horizontales (16:9), 800 × 1000 pour les portraits (4:5) ; conserver les proportions, adapter si un détail narratif nécessite davantage de résolution.
+- **Qualité JPEG** : environ 80–85 %, après inspection du rendu et des détails importants. La priorité est un chargement léger avec une qualité suffisante, sans multiplier les versions.
+- **WebP ou PNG** restent possibles pour les besoins particuliers, notamment la transparence (que JPEG ne prend pas en charge).
+- **Ne pas reconvertir en masse les fichiers WebP du premier lot** : les neuf images `ready` existantes et leur chemin dans le manifeste restent inchangés. Le manifeste accepte des chemins `.jpg` et `.webp` avec leur `format` réel.
+- **Constat du test ChatGPT** : une illustration JPEG jointe finit par s'afficher dans le fil après un délai. Cela **ne démontre pas que WebP serait incompatible**, ni qu'un lien GitHub distant s'intégrera de la même manière. Le temps de chargement peut aussi dépendre du réseau ou de l'interface.
+- **Pendant une aventure** : utiliser les images déjà produites et compatibles, sans génération automatique. L'affichage doit être testé concrètement dans ChatGPT ; en cas d'échec, poursuivre le récit et proposer le lien, plutôt que fabriquer une image nouvelle.
+
 ## 1. Principe d'usage
 
 1. **Avant de jouer :** constituer une bibliothèque étendue d'illustrations pré-générées, relues, validées, stockées sur un hébergement public stable et indexées par sujet, époque, lieu, personnages et usage.

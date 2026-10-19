@@ -73,3 +73,8 @@ Les sentinelles ordinaires sont **figurants réutilisables**, pas des héros à 
 - [Bible visuelle des PNJ](BIBLE_VISUELLE_PNJ.md)
 - [Notes des fichiers réellement publiés](../../assets/roleplay/README.md)
 - [Catalogue machine-lisible](../../data/illustrations.json)
+
+
+## Mise à jour du format cible (19 octobre 2026)
+
+La décision de production **pour les prochains lots** est désormais **JPEG par défaut**, avec scènes à 1280 × 720, portraits à 800 × 1000 et qualité ~80–85 %. Les WebP déjà publiés restent tels quels. Le test d'un JPEG en pièce jointe ChatGPT a montré une apparition différée de l'image : ne pas conclure que le WebP est défectueux ni que les images GitHub s'affichent directement. Détails : [stratégie de préproduction](STRATEGIE_PREPRODUCTION_IMAGES.md).

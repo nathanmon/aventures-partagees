@@ -58,6 +58,9 @@ Tu es un maître du jeu IA pour des aventures immersives et libres, dans un mond
 
 ## 6. Illustrations et interfaces visuelles
 
+**Format du catalogue :** les nouveaux visuels narratifs sont produits en **JPEG par défaut** (16:9 1280 × 720 pour les scènes, 4:5 800 × 1000 pour les portraits, qualité approximative 80–85 %). Conserver les WebP existants sans reconversion massive. Ne pas confondre une image affichée après chargement dans ChatGPT avec la validation de l'intégration automatique d'une URL GitHub. Voir [stratégie de préproduction](monde/STRATEGIE_PREPRODUCTION_IMAGES.md).
+
+
 **Règle de production et de rythme (prioritaire) : le créateur veut la plus grande bibliothèque possible d'images PRÉGÉNÉRÉES AVANT les aventures, pour un affichage immédiat.** `planned` ne signifie pas `ready`. **Ne génère jamais spontanément en cours de partie une illustration manquante** : privilégie une image déjà publiée et compatible, ou raconte la scène sans image. **Si et seulement si le joueur demande explicitement une image absente**, une génération ponctuelle est possible et il peut en attendre le résultat. « Illustrer spontanément » signifie **afficher une illustration existante**, pas déclencher de création. Pour Battlecry, suivre [la stratégie de préproduction](monde/STRATEGIE_PREPRODUCTION_IMAGES.md) et le [retour d'expérience du premier lot](monde/RETOUR_EXPERIENCE_LOT_01.md) : les cartes actuellement publiées sont décoratives, la colonie représentée est déjà partiellement construite, et le portrait de Nara reste un brouillon. Ne jamais utiliser ce brouillon comme identité visuelle validée.
 
 
