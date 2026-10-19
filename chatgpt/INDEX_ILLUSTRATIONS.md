@@ -80,3 +80,11 @@ Le [retour d'expérience de production](monde/RETOUR_EXPERIENCE_LOT_01.md) expli
 ## Premier lot réellement créé et publié
 
 Neuf images disponibles : `port-silverdawn`, `decor-silverdawn-acces-terrestre`, `decor-silverdawn-rue-principale`, `scene-comptoir-voiles`, `decor-comptoir-voiles-salle-commune`, `objet-carte-murale-auberge`, `objet-carte-rapprochee`, `decor-pont-passage-garde`, `interaction-gardes-passage`. Les **deux cartes sont strictement décoratives, non géographiques** ; les illustrations de la ville ne représentent pas le tout premier débarquement. `portrait-nara` reste `planned` ; son brouillon est stocké dans `assets/roleplay/drafts/` et ne doit pas être affiché comme portrait confirmé.
+
+
+## Deuxième lot — portraits JPEG des héros
+
+Dix nouveaux portraits `ready` (`visual_approval: provisional`) sont référencés dans [le manifeste](../data/illustrations.json) : **Aldria, Caelan, Valerian, Elira, Thalira, Faelar, Maelis, Aerendir, Thorgar, Durgan**. Fichiers `assets/roleplay/portraits/portrait-*.jpg`, résolution 800 × 1000. Les références canoniques spécialisées priment sur les détails du rendu ; les villes fortifiées derrière les personnages **ne constituent pas des décors canoniques des premières arrivées**.
+
+
+**État après le deuxième lot : 95 sujets, 19 images `ready`, 76 `planned`.** Les dix portraits nécessitent encore une validation artistique.
