@@ -2,15 +2,13 @@
 
 > **Décision du créateur pour Aventures partagées : produire un maximum d'images AVANT les parties.** L'objectif est de raconter et **afficher immédiatement** une image disponible, sans dépendre du temps de génération pendant l'aventure. Cette règle remplace les conseils plus anciens recommandant de réduire le catalogue à une quinzaine d'images ou de fabriquer spontanément de nouvelles scènes en cours de jeu.
 
-## Format des nouvelles illustrations — décision du 19 octobre 2026
+## Format des nouvelles illustrations — décision définitive du créateur
 
-- **JPEG (.jpg) par défaut** pour toute **nouvelle** illustration narrative (paysage, scène, personnage, objet sans transparence). Créer ou exporter directement en JPEG optimisé, sans imposer une étape WebP intermédiaire.
-- **Dimensions cibles** : 1280 × 720 pour les scènes horizontales (16:9), 800 × 1000 pour les portraits (4:5) ; conserver les proportions, adapter si un détail narratif nécessite davantage de résolution.
-- **Qualité JPEG** : environ 80–85 %, après inspection du rendu et des détails importants. La priorité est un chargement léger avec une qualité suffisante, sans multiplier les versions.
-- **WebP ou PNG** restent possibles pour les besoins particuliers, notamment la transparence (que JPEG ne prend pas en charge).
-- **Ne pas reconvertir en masse les fichiers WebP du premier lot** : les neuf images `ready` existantes et leur chemin dans le manifeste restent inchangés. Le manifeste accepte des chemins `.jpg` et `.webp` avec leur `format` réel.
-- **Constat du test ChatGPT** : une illustration JPEG jointe finit par s'afficher dans le fil après un délai. Cela **ne démontre pas que WebP serait incompatible**, ni qu'un lien GitHub distant s'intégrera de la même manière. Le temps de chargement peut aussi dépendre du réseau ou de l'interface.
-- **Pendant une aventure** : utiliser les images déjà produites et compatibles, sans génération automatique. L'affichage doit être testé concrètement dans ChatGPT ; en cas d'échec, poursuivre le récit et proposer le lien, plutôt que fabriquer une image nouvelle.
+- **Toujours WebP (.webp) par défaut**, pour toutes les nouvelles illustrations narratives : scènes, portraits, objets et variantes. Les images générées dans un autre format sont **converties en WebP optimisé avant publication**.
+- Dimensions cibles : 1280 × 720 pour les scènes 16:9, 800 × 1000 pour les portraits 4:5 ; adapter la taille si un détail important l'exige. Compression WebP avec contrôle visuel (qualité indicative 75–85, à ajuster).
+- **Ne plus privilégier le JPEG** pour les prochains lots : les tests ont confirmé qu'un WebP joint peut s'afficher dans ChatGPT. PNG exceptionnellement si besoin technique spécifique ; pas de double version systématique.
+- **Ne pas reconvertir en masse les fichiers déjà publiés** : les 9 WebP initiaux et les 10 JPEG du deuxième lot restent accessibles, avec leur chemin et leur format réel dans le catalogue. Les **futures** entrées doivent pointer vers des fichiers `.webp` avec `format: "webp"`.
+- L'affichage comme pièce jointe dans ChatGPT a été validé, mais le chargement direct depuis une URL GitHub et son automatisation demeurent des sujets distincts : aucune conversion JPEG ne résout intrinsèquement ce problème.
 
 ## Affichage d'images dans ChatGPT — essais validés (octobre 2026)
 
@@ -29,7 +27,7 @@
 
 **Point de vigilance :** le WebP joint et affiché lors du dernier essai provenait d'une reconversion du JPEG de test ; nous n'avons pas encore confirmé l'affichage en pièce jointe du **WebP binaire exact** hébergé dans le dépôt. Ne pas présenter cette chaîne complète comme déjà validée.
 
-**Décision sur les formats :** JPEG reste le **format de production par défaut pour les nouvelles illustrations** par simplicité ; les WebP déjà publiés sont conservés. La règle de format et la méthode d'affichage sont deux décisions indépendantes.
+**Décision sur les formats :** WebP est **le format systématique des prochaines illustrations**, selon la décision définitive du créateur. Les dix JPEG déjà publiés restent conservés sans reconversion de masse.
 
 ## 1. Principe d'usage
 

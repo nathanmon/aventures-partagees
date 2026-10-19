@@ -78,3 +78,8 @@ Les sentinelles ordinaires sont **figurants réutilisables**, pas des héros à 
 ## Mise à jour du format cible (19 octobre 2026)
 
 La décision de production **pour les prochains lots** est désormais **JPEG par défaut**, avec scènes à 1280 × 720, portraits à 800 × 1000 et qualité ~80–85 %. Les WebP déjà publiés restent tels quels. Le test d'un JPEG en pièce jointe ChatGPT a montré une apparition différée de l'image : ne pas conclure que le WebP est défectueux ni que les images GitHub s'affichent directement. Détails : [stratégie de préproduction](STRATEGIE_PREPRODUCTION_IMAGES.md).
+
+
+## Décision définitive sur les formats (octobre 2026)
+
+Le créateur a rétabli **WebP pour toutes les nouvelles illustrations**, les tests ayant confirmé qu'un fichier WebP joint peut s'afficher dans ChatGPT. Les 10 JPEG du deuxième lot sont des fichiers historiques conservés sans reconversion obligatoire. Toutes les futures créations doivent être exportées ou converties en WebP optimisé avant publication et indexation. Cette décision remplace la préférence JPEG indiquée précédemment.

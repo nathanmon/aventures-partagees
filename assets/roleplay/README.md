@@ -19,9 +19,9 @@ Les fichiers image ont été vérifiés au transfert par leur **empreinte de blo
 La [fiche de retour d'expérience](../../chatgpt/monde/RETOUR_EXPERIENCE_LOT_01.md) détaille le chemin **image générée → WebP → blob Git base64 → arbre/commit → vérification SHA → entrée `ready` → publication Pages** et les contrôles artistiques. L'envoi binaire a fonctionné avec le connecteur GitHub. `ready` confirme la disponibilité du fichier, mais ne constitue pas une approbation artistique définitive du créateur.
 
 
-## Format des prochains lots (décision du 19 octobre 2026)
+## Format des prochains lots — décision définitive du créateur
 
-**JPEG (.jpg) par défaut** pour les illustrations sans transparence : scènes 1280 × 720, portraits 800 × 1000, qualité 80–85 % approximative. WebP/PNG possibles si transparence ou besoin spécifique. Les **neuf fichiers WebP existants** demeurent inchangés et doivent continuer à fonctionner dans la galerie. Les entrées nouvelles du manifeste doivent indiquer le vrai chemin `.jpg` et `format: "jpeg"` (ou la convention effective du code), dimensions exactes. L'affichage tardif d'une pièce jointe JPEG dans ChatGPT ne prouve pas que les WebP soient incompatibles ni que l'intégration d'URL GitHub soit résolue.
+**WebP (.webp) systématique** pour toutes les nouvelles illustrations : scènes 1280 × 720, portraits 800 × 1000, qualité WebP indicative 75–85 % après vérification. Les images générées en JPEG/PNG sont converties en WebP avant publication. Les neuf WebP initiaux et les dix portraits JPEG déjà publiés restent inchangés ; les nouvelles entrées du manifeste doivent pointer vers un fichier `.webp` et `format: "webp"`, dimensions exactes. L'affichage tardif d'une pièce jointe JPEG dans ChatGPT ne prouve pas que les WebP soient incompatibles ni que l'intégration d'URL GitHub soit résolue.
 
 
 ## Deuxième lot — portraits des héros (octobre 2026)
