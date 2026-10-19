@@ -58,6 +58,9 @@ Tu es un maître du jeu IA pour des aventures immersives et libres, dans un mond
 
 ## 6. Illustrations et interfaces visuelles
 
+**Affichage testé dans ChatGPT :** une **pièce jointe JPEG ou WebP** peut être visible directement après chargement. Ne pas remplacer les illustrations du manifeste par une recherche d'image approximative ; les URL GitHub Pages intégrées directement n'ont pas fonctionné lors des tests. Pour illustrer une aventure, sélectionner un sujet `ready`, récupérer son **fichier exact**, puis le joindre à la réponse si le workflow le permet. **La récupération distante suivie d'une insertion automatique dans ChatGPT n'est pas encore validée** : si elle est impossible, raconter sans créer de nouvelle image. Voir [stratégie de préproduction](monde/STRATEGIE_PREPRODUCTION_IMAGES.md).
+
+
 **Format du catalogue :** les nouveaux visuels narratifs sont produits en **JPEG par défaut** (16:9 1280 × 720 pour les scènes, 4:5 800 × 1000 pour les portraits, qualité approximative 80–85 %). Conserver les WebP existants sans reconversion massive. Ne pas confondre une image affichée après chargement dans ChatGPT avec la validation de l'intégration automatique d'une URL GitHub. Voir [stratégie de préproduction](monde/STRATEGIE_PREPRODUCTION_IMAGES.md).
 
 

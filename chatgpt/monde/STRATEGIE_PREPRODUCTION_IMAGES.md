@@ -12,6 +12,25 @@
 - **Constat du test ChatGPT** : une illustration JPEG jointe finit par s'afficher dans le fil après un délai. Cela **ne démontre pas que WebP serait incompatible**, ni qu'un lien GitHub distant s'intégrera de la même manière. Le temps de chargement peut aussi dépendre du réseau ou de l'interface.
 - **Pendant une aventure** : utiliser les images déjà produites et compatibles, sans génération automatique. L'affichage doit être testé concrètement dans ChatGPT ; en cas d'échec, poursuivre le récit et proposer le lien, plutôt que fabriquer une image nouvelle.
 
+## Affichage d'images dans ChatGPT — essais validés (octobre 2026)
+
+**Résultat observé par le joueur :** une image **JPEG jointe à la conversation** et une image **WebP jointe à la conversation** finissent par **s'afficher directement** dans le fil, éventuellement après quelques secondes. Le WebP est donc utilisable ; **aucune conversion JPEG n'est requise uniquement pour permettre cet affichage**.
+
+**Ce qui n'a pas fonctionné dans nos essais :**
+- une URL GitHub Pages insérée comme image Markdown ou élément HTML personnalisé a produit un lien ou aucune image visible ;
+- une recherche d'image à partir de l'URL a affiché **une autre image**, non conforme à notre bibliothèque. **Ne jamais utiliser une recherche par URL comme substitution à un fichier du dépôt**.
+
+**Méthode utilisable pour les aventures :**
+1. Chercher dans `data/illustrations.json` un sujet `ready` correspondant au lieu, à la période, aux personnages et aux découvertes de la session ;
+2. récupérer **les octets du fichier exact** mentionné par `file` (depuis le dépôt ou une copie locale vérifiée), sans recherche visuelle approximative ;
+3. joindre ce fichier existant (WebP ou JPEG) à la **réponse ChatGPT** puis raconter la scène ; il peut y avoir un délai de chargement côté joueur ;
+4. **ne pas générer d'image automatiquement** si le fichier est absent ou impossible à joindre ; poursuivre le récit avec le texte ;
+5. distinguer **affichage en pièce jointe testé avec succès** et **récupération automatisée d'un fichier distant puis pièce jointe**, qui **reste à implémenter et à valider de bout en bout**.
+
+**Point de vigilance :** le WebP joint et affiché lors du dernier essai provenait d'une reconversion du JPEG de test ; nous n'avons pas encore confirmé l'affichage en pièce jointe du **WebP binaire exact** hébergé dans le dépôt. Ne pas présenter cette chaîne complète comme déjà validée.
+
+**Décision sur les formats :** JPEG reste le **format de production par défaut pour les nouvelles illustrations** par simplicité ; les WebP déjà publiés sont conservés. La règle de format et la méthode d'affichage sont deux décisions indépendantes.
+
 ## 1. Principe d'usage
 
 1. **Avant de jouer :** constituer une bibliothèque étendue d'illustrations pré-générées, relues, validées, stockées sur un hébergement public stable et indexées par sujet, époque, lieu, personnages et usage.

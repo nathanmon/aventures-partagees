@@ -15,6 +15,12 @@
 
 ## Illustrations
 
+- [x] Tester l'affichage direct d'une pièce jointe JPEG et WebP dans ChatGPT : visible après chargement.
+- [x] Documenter que la simple URL GitHub intégrée ne s'est pas affichée et qu'une recherche par URL n'est pas fiable.
+- [ ] Développer et tester de bout en bout : sélectionner `ready` → récupérer les octets exacts sur GitHub → joindre le fichier dans la réponse du MJ, sans génération.
+- [ ] Valider spécifiquement le WebP **original exact** du dépôt comme pièce jointe, et non un WebP reconverti à partir du JPEG de test.
+
+
 - [x] Documenter les leçons techniques du premier lot : transfert WebP binaire, vérification Git, édition du manifeste, publication Pages.
 - [x] Consigner les limites visuelles : portrait Nara non conforme, cartes décoratives, pont non canonique, Silverdawn trop avancée pour les Amarres.
 - [ ] Refaire le portrait maître de Nara à partir de sa fiche complète avant de l'utiliser dans les aventures.
