@@ -29,3 +29,10 @@ La [fiche de retour d'expérience](../../chatgpt/monde/RETOUR_EXPERIENCE_LOT_01.
 **10 JPEG (800 × 1000)** publiés dans `portraits/` : Aldria, Caelan, Valerian, Elira, Thalira, Faelar, Maelis, Aerendir, Thorgar et Durgan. Les vrais fichiers ont été transférés comme blobs binaires Git et vérifiés par leurs empreintes.
 
 Leur statut `ready` signifie qu'ils existent dans la galerie ; leur approbation artistique est **provisoire** (`visual_approval: "provisional"`), à comparer aux références officielles spécialisées et à faire confirmer par le créateur. Leurs arrière-plans de **cités très développées** sont des décors illustratifs **non canoniques** : ne pas en déduire l'état des ports à l'arrivée des peuples. Ces portraits ne remplacent pas les références maîtresses du jeu vidéo.
+
+
+## Lot de dix scènes en WebP — octobre 2026
+
+Dix fichiers binaires réels (1280 × 720) ont été publiés dans `assets/roleplay/scenes/`, empreintes Git vérifiées. **Quatre images d'ambiance** sont disponibles en galerie (`ready`) : arrivée de Caelan aux quais, chantier de Silverdawn, poste de garde et panneau d'annonces. **Six images conditionnelles** restent `planned` et sont conservées sous `draft_file` : entrée de crypte, éclaireurs orcs, dragon, kraken, alerte au port et gardien des ruines. Leur présence dans les fichiers publics du dépôt ne constitue pas une autorisation de les montrer avant découverte. Aucun de ces rendus ne valide l'existence de bâtiments, lieux ou événements précis. Ce sont des illustrations, pas de nouveaux faits de l'univers.
+
+Tous les **nouveaux lots** restent au format **WebP** ; les dix JPEG historiques du lot des portraits ne changent pas.

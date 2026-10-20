@@ -88,3 +88,8 @@ Dix nouveaux portraits `ready` (`visual_approval: provisional`) sont référenc�
 
 
 **État après le deuxième lot : 95 sujets, 19 images `ready`, 76 `planned`.** Les dix portraits nécessitent encore une validation artistique.
+
+
+## Nouveau lot : dix scènes WebP
+
+Dix nouveaux fichiers `assets/roleplay/scenes/*.webp` réellement publiés. Quatre scènes sans révélation sont référencées `ready` et six scènes conditionnelles (`crypte`, orcs, dragon, kraken, alerte, gardien) restent **masquées de la galerie** avec `status: planned`, `draft_file` renseigné et `file: null`. Les illustrations ne valident pas de nouveaux lieux ou événements canoniques. **Catalogue actualisé : 104 sujets, 23 images `ready`, 81 sujets `planned`.**
